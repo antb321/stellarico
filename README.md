@@ -14,18 +14,20 @@ To build and run locally:
    - rename it with new ico name 
     
     e.g : cp content/ico/tempocrypto.md content/ico/<new_iconame>.md
+    mkdir /static/img/ico/tempocrypto
+    mkdir /static/img/ico/tempocrypto/screenshots
     
   2. update the varaibles .
   
   [**Variables**](#variables)
   
   3. Add images
-   - logo : /static/img/<new_iconame>/logo.png 
-   - banner : /static/img/<new_iconame>/banner.png 
+   - logo : /static/img/ico/<new_iconame>/logo.png 
+   - banner : /static/img/ico/<new_iconame>/banner.png 
    - screenshots : 
-     - /static/img/screenshots/<new_iconame>/1.png
-     - /static/img/screenshots/<new_iconame>/2.png
-     - /static/img/screenshots/<new_iconame>/3.png
+     - /static/img/ico/tempocrypto/<new_iconame>/screenshots/1.png
+     - /static/img/ico/tempocrypto/<new_iconame>/screenshots/2.png
+     - /static/img/ico/tempocrypto/<new_iconame>/screenshots/3.png
      
 
 ##images size 
