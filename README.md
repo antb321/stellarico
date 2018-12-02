@@ -8,10 +8,14 @@ To get listed you need to only follow two criteria. First it must use the stella
 
 The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.
 
-How do you get started? First it helps if you know a bit about git. Read these items first if you don't
+# How do you get started? 
+
+First it helps if you know a bit about git. Read these items first if you don't
 
 https://github.com/WGBH/pbucore/wiki/Contributing-to-the-project-through-Github-web-interface
+
 or
+
 https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
 
 
