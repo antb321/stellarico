@@ -4,20 +4,20 @@
 To build and run locally:
 
     git clone https://github.com/antb123/stellarico.git \
-    && cd stellaric \
+    && cd stellarico \
 
 
 ## How to add a new ico
   1. Go to content folder
   
    - copy an existing ico and paste in the same folder 
-   - rename it with new ico name 
+   - rename it with new ico name that you want to submit 
     
     e.g : cp content/ico/tempocrypto.md content/ico/<new_iconame>.md
-    mkdir /static/img/ico/tempocrypto
-    mkdir /static/img/ico/tempocrypto/screenshots
+    mkdir /static/img/ico/<new_iconame>
+    mkdir /static/img/ico/<new_iconame>/screenshots
     
-  2. update the varaibles .
+  2. update the variables.
   
   [**Variables**](#variables)
   
@@ -30,7 +30,7 @@ To build and run locally:
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/3.png
      
 
-##images size 
+## images size 
     logo 150x150 px
     banner 800x300 px 
     screenshot 350x200 px
@@ -72,26 +72,30 @@ To build and run locally:
  - airdrop_live : NO
  - country: FR
  - bounty : "https://ico.tempo.eu.com/bounty"
- - additional_links : ["https://sharespost.com/",
+ - additional_links : ["https://stellar.org/",
         "https://tempo.eu.com/"] 
  - screenshots : 
-            [ "/img/ico/blockcloud/screenshots/1.jpg",
-              "/img/ico/blockcloud/screenshots/2.jpg",
-              "/img/ico/blockcloud/screenshots/3.jpg",
-              "/img/ico/blockcloud/screenshots/4.jpg",] 
+            [ "/img/ico/tempocrypto/screenshots/1.jpg",
+              "/img/ico/tempocrypto/screenshots/2.jpg",
+              "/img/ico/tempocrypto/screenshots/3.jpg",
+              "/img/ico/tempocrypto/screenshots/4.jpg",] 
    - screenshot path
  - website : "https://ico.tempo.eu.com"
  - whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
  - twitter_url : "https://twitter.com/tempo_eu"
  - telegram_url : "https://t.me/joinchat/Cl6wihECcZFcv2tJcFEY5Q"
- - github_url: ""
- - reddit_url: ""
- - facebook_url: ""
+ - github_url: "https://github.com/tempofr"
+ - reddit_url: "https://www.reddit.com/user/TempoMoneyTransfer"
+ - facebook_url: "https://www.facebook.com/TEMPOMoneyTransfer/"
+ - bitcointalk_url : "https://bitcointalk.org/index.php?topic=5025231.msg45455624#msg45455624"
+ - youtube_url : "https://www.youtube.com/channel/UC-MI1jnOA1T1ublc6QoJ71w"
+ - linkedin_url : "https://fr.linkedin.com/company/tempo-france-sas"
  - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - tw_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - weight: 5 
-   - give the weight to ICO 0 (zero is minimun ) on the basis of this weight ico will show on home page 
+   - give the weight to ICO 0 (zero is minimum ) on the basis of this weight ico will show on home page 
    
+  Push any changes and they will automatically be accepted once reviewed and pushed to the website. 
 
 
 
