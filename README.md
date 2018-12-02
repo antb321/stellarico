@@ -6,7 +6,7 @@ While many other ico promotion sites charge for listings - Stellar ICO Expert is
 
 To get listed you need to only follow two criteria. First it must use the stellar blockchain and second it must follow the stellar community guidelines https://www.stellar.org/community-guidelines/.
 
-The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.nTo see your listing 24-48 hours after submitted visit stellarico.expert
+The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.nTo see your listing 24-48 hours after submitted visit https://stellarico.expert
 
 # How do you get started? 
 
