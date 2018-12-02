@@ -1,7 +1,24 @@
+## What is StellarICO Expert?
+
+It is the best way to promote your Stellar ICO, Stellar Token, Stellar Utility Token, Stellar Equity Token, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
+
+While many other ico promotion sites charge for listings - Stellar ICO Expert is free. Stellar ICO Expert data is 100% driven by the community via github so all submissions and changes can be easily merged into our high performance static website. While on other sites your stellar token event may get overwhelmed by Ethereum s** coins.
+
+To get listed you need to only follow two criteria. First it must use the stellar blockchain and second it must follow the stellar community guidelines https://www.stellar.org/community-guidelines/.
+
+The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.
+
+How do you get started? First it helps if you know a bit about git. Read these items first if you don't
+
+https://github.com/WGBH/pbucore/wiki/Contributing-to-the-project-through-Github-web-interface
+or
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
+
+
 
 ## Getting Started
 
-To build and run locally:
+Clone :
 
     git clone https://github.com/antb123/stellarico.git \
     && cd stellarico \
