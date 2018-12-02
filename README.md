@@ -79,7 +79,8 @@ Clone :
  - goal : "7,000,000 (13%)"
  - start_date: "2018-11-08T00:00:00Z"
  - end_date : "2018-11-18T00:00:00Z"
- - rating : 3
+ - rating : 
+   - this is filled in automatically based on social proof. For Tokens that are live it comes from a 50/50 mixture of stellar.expert and stellarport ratings.
  - ticker : TEMPO
  - token_type : STELLAR
  - token_price: "1 TEMPO = 0.1200 EUR"
