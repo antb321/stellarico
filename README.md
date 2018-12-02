@@ -91,6 +91,7 @@ Clone :
  - non_participate: NORTH KOREA, CUBA, Syria, Crimea/Sevastopol, USA (limited)
  - airdrop : YES
  - airdrop_live : NO
+   - if there is no airdrop do not include these two variables and they will not appear
  - country: FR
  - bounty : "https://ico.tempo.eu.com/bounty"
  - additional_links : ["https://stellar.org/",
@@ -111,6 +112,7 @@ Clone :
  - bitcointalk_url : "https://bitcointalk.org/index.php?topic=5025231.msg45455624#msg45455624"
  - youtube_url : "https://www.youtube.com/channel/UC-MI1jnOA1T1ublc6QoJ71w"
  - linkedin_url : "https://fr.linkedin.com/company/tempo-france-sas"
+   - all these social sites are optional. If they are not included they will not appear on your page
  - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - tw_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - weight: 5 
