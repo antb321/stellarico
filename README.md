@@ -1,4 +1,4 @@
-## What is StellarICO Expert?
+## What is StellarICO.Expert?
 
 It is the best way to promote your Stellar ICO, Stellar Token, Stellar Utility Token, Stellar Equity Token, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
 
@@ -6,7 +6,7 @@ While many other ico promotion sites charge for listings - Stellar ICO Expert is
 
 To get listed you need to only follow two criteria. First it must use the stellar blockchain and second it must follow the stellar community guidelines https://www.stellar.org/community-guidelines/.
 
-The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.
+The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.nTo see your listing 24-48 hours after submitted visit stellarico.expert
 
 # How do you get started? 
 
