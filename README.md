@@ -13,6 +13,9 @@ The second goal of the project is to come up with machine readable format for IC
 First it helps if you know a bit about git. Read these items first if you don't
 
 https://github.com/WGBH/pbucore/wiki/Contributing-to-the-project-through-Github-web-interface
+and you would fork the repo and then request pull
+to create folders you need to create the file or upload it
+https://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git
 
 or
 
