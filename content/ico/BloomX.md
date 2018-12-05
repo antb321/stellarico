@@ -6,7 +6,7 @@ categories : ["active", "Payments"]
 ticket : "Payments"
 banner : "img/ico/BloomX/bloomx-banner.jpg"
 logo : "img/ico/BloomX/bloomx-logo.jpg"
-image : "#"
+image : "/img/ico/BloomX/screenshots/5.jpg"
 description : "Transforming Money Service Businesses"
 long_description: "BloomX is connecting neighborhood moneychangers across Asia to the Stellar decentralized exchange, and teaching people to use cryptocurrencies safely. Our Teller app will be used by moneychangers and remittance agents to buy/sell crypto over the counter, and our Wallet app will be used by end-customers to store their crypto and access other BloomX services. The BX8 token will be used to pay for each business transaction on the network, and additionally acts as cashback for the end-customers. We've signed up three big institutional partners in the Philippines to pilot the platform as early as Q3 2018, and aim to expand to neighboring countries by 2019.B
 
