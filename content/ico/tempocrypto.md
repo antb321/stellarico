@@ -6,9 +6,9 @@ categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
 banner : "img/ico/tempocrypto/TempoCrypto-banner.jpg"
 logo : "img/ico/tempocrypto/TempoCrypto-logo.jpg"
-image : "#"
+image : "static\img\ico\tempocrypto\tempo-background.jpg"
 description : "The easiest, fastest and most secure bridge between cash and crypto!"
-long_description: "The use of crypto currencies continues to accelerate. But exchanging crypto for fiat currencies remains difficult, limited and exposed to high volatility. Consequently, crypto currencies are still little used for purchasing goods and services. Tempo solves this. Tempo offers an easy way to get in and out of crypto, making the exchange faster, secure and available wherever you are. Which in turn, makes the the purchase of goods and services using cryptocurrencies easier. 
+long_description: "The use of crypto currencies continues to accelerate. But exchanging crypto for fiat currencies remains difficult, limited and exposed to high volatility. Consequently, crypto currencies are still little used for purchasing goods and services. Tempo solves this. Tempo offers an easy way to get in and out of crypto, making the exchange faster, secure and available wherever you are. Which in turn, makes the the purchase of goods and services using cryptocurrencies easier.
 
 Tempo has already built a robust money remittance business, with a substantial and growing international network of correspondents and agents. In fact, Tempo currently has the largest payment network of any licensed crypto exchange in the world. Tempo also has the only exchange offering both a private and distributed exchange to ensure best pricing, along with the EURT, a stable coin backed by cash on hand."
 money_goal : "1,000,000"
@@ -32,10 +32,11 @@ bounty : "https://ico.tempo.eu.com/bounty"
 additional_links : ["https://sharespost.com/",
         "https://glassnet.io/downloads/GLASS_Executive_Summary.pdf",
         "https://glassnet.io/blog/"]
-screenshots : [ "/img/ico/blockcloud/screenshots/1.jpg",
-                "/img/ico/blockcloud/screenshots/2.jpg",
-                "/img/ico/blockcloud/screenshots/3.jpg",
-                "/img/ico/blockcloud/screenshots/4.jpg",]
+screenshots : [ "static\img\ico\tempocrypto\screenshots\Screenshot (49).jpg",
+                "static\img\ico\tempocrypto\screenshots\Screenshot (50).jpg",
+                "static\img\ico\tempocrypto\screenshots\Screenshot (51).jpg",
+                "static\img\ico\tempocrypto\screenshots\Screenshot (52).jpg",
+                "static\img\ico\tempocrypto\screenshots\Screenshot (53).jpg"]
 website : "https://ico.tempo.eu.com"
 whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
 twitter_url : "https://twitter.com/tempo_eu"
