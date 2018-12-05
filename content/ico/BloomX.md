@@ -1,8 +1,8 @@
 ---
-title : Financial BloomX
-date : "Unknown""
-tags : ["upcoming","Payments","airdrop"]
-categories : ["upcoming", "Payments","airdrop"]
+title : BloomX
+date : "2018-06-01T00:00:00Z"
+tags : ["active","Payments"]
+categories : ["active", "Payments"]
 ticket : "Payments"
 banner : "img/ico/BloomX/bloomx-banner.jpg"
 logo : "img/ico/BloomX/bloomx-logo.jpg"
@@ -37,7 +37,7 @@ available_for_token_sale: 3,888,888,888 BX8 (49%)
 kyc: YES 
 accepted_currency :  ETH, BTC, XLM
 non_participate: China, United States of America
-airdrop : YES
+airdrop : NO
 airdrop_live : NO
 country: Singapore
 bounty : ""
