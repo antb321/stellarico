@@ -66,10 +66,15 @@ Clone :
   - date : "2018-11-08T00:00:00Z"
     - when ico is created
   - tags : ["upcoming","Payments","airdrop"] 
-    - add tags here
+    - add tags here are upcoming, ended, active
+    - active is for icos currenty occuring, whereas upcoming are in the future and ended are complete
+    - the next tag is the type - you can copy this from another site in terms of category
+    - the final tag is if there is an airdrop or not. If there is no airdrop remove this tag
   - categories : ["upcoming", "Payments","airdrop"]
     - add categories it must contain one of these ( "active", "upcoming",   "ended" ) otherwise ico will not display on home page
+    - again the other two follow the tags
   - ticket : "Payments"
+     - this should be the type
   - banner : "img/ico/tempocrpto/background.jpg"
     - banner path
   - logo : "img/ico/tempo/Tempo_logo_white150x150.jpg"
@@ -117,6 +122,12 @@ Clone :
  - youtube_url : "https://www.youtube.com/channel/UC-MI1jnOA1T1ublc6QoJ71w"
  - linkedin_url : "https://fr.linkedin.com/company/tempo-france-sas"
    - all these social sites are optional. If they are not included they will not appear on your page
+  - stellarport_url = ""
+   - if this is and exisiting asset, go to stellarport.io, click on exchange, assets and search for the ticker.
+   if it exists add the url
+ - stellarexpert_url = ""
+    - go to stellar.expert and add the url to the asset 
+    - type the ticker into the search box
  - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - tw_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - weight: 5 
