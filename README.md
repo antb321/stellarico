@@ -49,6 +49,7 @@ Clone :
    - logo : /static/img/ico/<new_iconame>/logo.png 
    - banner : /static/img/ico/<new_iconame>/banner.png 
    - screenshots : 
+     - Screenshots should be of important images from an app or the whitepaper
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/1.png
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/2.png
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/3.png
