@@ -21,7 +21,7 @@ or
 
 https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
 
-
+ALL files should use unix forward slashes when refering to images.
 
 ## Getting Started
 
@@ -123,10 +123,10 @@ Clone :
  - youtube_url : "https://www.youtube.com/channel/UC-MI1jnOA1T1ublc6QoJ71w"
  - linkedin_url : "https://fr.linkedin.com/company/tempo-france-sas"
    - all these social sites are optional. If they are not included they will not appear on your page
-  - stellarport_url = ""
+  - stellarport_url : ""
    - if this is and exisiting asset, go to stellarport.io, click on exchange, assets and search for the ticker.
    if it exists add the url
- - stellarexpert_url = ""
+ - stellarexpert_url : ""
     - go to stellar.expert and add the url to the asset 
     - type the ticker into the search box
  - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
