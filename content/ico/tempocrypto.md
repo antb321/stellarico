@@ -6,7 +6,7 @@ categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
 banner : "img/ico/tempocrypto/TempoCrypto-banner.jpg"
 logo : "img/ico/tempocrypto/TempoCrypto-logo.jpg"
-image : "static\img\ico\tempocrypto\tempo-background.jpg"
+image : "static/img/ico/tempocrypto/tempo-background.jpg"
 description : "The easiest, fastest and most secure bridge between cash and crypto!"
 long_description: "The use of crypto currencies continues to accelerate. But exchanging crypto for fiat currencies remains difficult, limited and exposed to high volatility. Consequently, crypto currencies are still little used for purchasing goods and services. Tempo solves this. Tempo offers an easy way to get in and out of crypto, making the exchange faster, secure and available wherever you are. Which in turn, makes the the purchase of goods and services using cryptocurrencies easier.
 
@@ -32,17 +32,17 @@ bounty : "https://ico.tempo.eu.com/bounty"
 additional_links : ["https://sharespost.com/",
         "https://glassnet.io/downloads/GLASS_Executive_Summary.pdf",
         "https://glassnet.io/blog/"]
-screenshots : [ "static\img\ico\tempocrypto\screenshots\Screenshot (49).jpg",
-                "static\img\ico\tempocrypto\screenshots\Screenshot (50).jpg",
-                "static\img\ico\tempocrypto\screenshots\Screenshot (51).jpg",
-                "static\img\ico\tempocrypto\screenshots\Screenshot (52).jpg",
-                "static\img\ico\tempocrypto\screenshots\Screenshot (53).jpg"]
+screenshots : [ "static/img/ico/tempocrypto/screenshots/Screenshot (49).jpg",
+                "static/img/ico/tempocrypto/screenshots/Screenshot (50).jpg",
+                "static/img/ico/tempocrypto/screenshots/Screenshot (51).jpg",
+                "static/img/ico/tempocrypto/screenshots/Screenshot (52).jpg",
+                "static/img/ico/tempocrypto/screenshots/Screenshot (53).jpg"]
 website : "https://ico.tempo.eu.com"
 whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
 twitter_url : "https://twitter.com/tempo_eu"
 telegram_url : "https://t.me/joinchat/Cl6wihECcZFcv2tJcFEY5Q"
-stellarport_url = ""
-stellarexpert_url = ""
+stellarport_url : ""
+stellarexpert_url : ""
 github_url: ""
 reddit_url: ""
 facebook_url: ""
