@@ -1,10 +1,10 @@
 ---
-title : RMT
+title : Sureremit
 date : "2017-01-01T00:00:00Z"
 tags : ["completed","Payments","airdrop"]
 categories : ["completed", "Payments","airdrop"]
 ticket : "Payments"
-banner : "[""]
+banner : [""]
 logo : "img/ico/sureremit/RMT-LOGO.jpg"
 image : "img/ico/sureremit/RMT-background.jpg"
 description : "An ecosystem for global non-cash remittances"
@@ -12,7 +12,7 @@ long_description: "SureRemit connects immigrants abroad directly with merchants 
 money_goal : "10,000,000"
 goal : "10,000,000 (100%)"
 start_date: "10th Jan 2018 "
-end_date : "10th Feb 2018"
+end_date : "10th Feb 2018" "2018-02-10T00:00:00Z"
 rating : 3
 ticker : RMT
 token_type : STELLAR
