@@ -18,10 +18,9 @@ ticker : loan
 token_type : STELLAR
 token_price: "1 LOAN = 0.05 USD"
 softcap_goal:  1,000,000,000
-Hard cap : 8000000 USD
 fundraising_goal:
 available_for_token_sale:45%
-kyc:  YES
+kyc: YES
 accepted_currency :   ETH, BTC, XLM, Fiat
 Non-participate: USA, UK, China
 airdrop : YES
