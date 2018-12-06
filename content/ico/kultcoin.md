@@ -12,7 +12,7 @@ long_description:
 money_goal : 
 goal : 
 start_date: "2018-12-10T00:00:00Z"
-end_date : 
+end_date : "2019-12-10T00:00:00Z"
 rating : 3
 ticker : Kult
 token_type : STELLAR
@@ -26,7 +26,7 @@ non_participate:
 airdrop :
 airdrop_live :
 country: FRANCE
-bounty : "https://ico.tempo.eu.com/bounty"
+bounty : ""
 additional_links : [""]
 screenshots :  ["img/ico/kultcoin/screenshots/Screenshot (43).jpg",
                 "img/ico/kultcoin/screenshots/screenshot (43).jpg",
