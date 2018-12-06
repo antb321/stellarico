@@ -21,7 +21,7 @@ One blockchain framework. Unlimited potential."
 money_goal : ""
 goal : "40,000,000 USD"
 start_date: "2018-06-01T00:00:00Z"
-end_date : "208-06-15T00:00:00Z"
+end_date : "2018-06-15T00:00:00Z"
 rating : 3
 ticker : TERN
 token_type : TERN
