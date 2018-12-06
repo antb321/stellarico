@@ -1,10 +1,10 @@
 ---
 title : RMT
-date : "2017"
+date : "2017-01-01T00:00:00Z"
 tags : ["completed","Payments","airdrop"]
 categories : ["completed", "Payments","airdrop"]
 ticket : "Payments"
-banner : "#"
+banner : "[""]
 logo : "img/ico/sureremit/RMT-LOGO.jpg"
 image : "img/ico/sureremit/RMT-background.jpg"
 description : "An ecosystem for global non-cash remittances"
@@ -28,7 +28,7 @@ airdrop_live : NO
 country: USA
 bounty : "https://www.bountylord.com/index.php?id=773"
 additional_links : ["https://www.marketbeat.com/cryptocurrencies/sureremit/"]
-screenshots : [ "img/ico/sureremit/screenshots/Screenshot (18).jpg",
+screenshots : ["img/ico/sureremit/screenshots/Screenshot (18).jpg",
                 "img/ico/sureremit/screenshots/Screenshot (19).jpg",
                 "img/ico/sureremit/screenshots/Screenshot (20).jpg",
                 "img/ico/sureremit/screenshots/Screenshot (21).jpg",
@@ -40,8 +40,8 @@ telegram_url : "https://t.me/sureremit"
 github_url: "https://github.com/SureRemit"
 reddit_url: "https://www.reddit.com/r/sureremit/"
 facebook_url: "https://www.facebook.com/sureremit/"
-og_png: " "
-tw_png: " "
+og_png: [""]
+tw_png: [""]
 weight: 5
 
 ---
