@@ -4,9 +4,9 @@ date : "2017"
 tags : ["completed","Payments","airdrop"]
 categories : ["completed", "Payments","airdrop"]
 ticket : "Payments"
-banner : "img/ico/tempocrypto/TempoCrypto-banner.jpg"
-logo : "static\img\ico\sureremit\RMT_LOGO.jpg"
-image : "static\img\ico\sureremit\RMT-background.jpg"
+banner : "#"
+logo : "img/ico/sureremit/RMT-LOGO.jpg"
+image : "img/ico/sureremit/RMT-background.jpg"
 description : "An ecosystem for global non-cash remittances"
 long_description: "SureRemit connects immigrants abroad directly with merchants that provide the services needed by their loved ones back home. With Remit tokens, immigrants all over the world can access digital shopping vouchers that can be spent by loved ones on goods and services at accepting merchants wherever they are. They can also pay for hundreds of utility bills and mobile airtime credits directly from the SureRemit application.."
 money_goal : "10,000,000"
@@ -28,10 +28,11 @@ airdrop_live : NO
 country: USA
 bounty : "https://www.bountylord.com/index.php?id=773"
 additional_links : ["https://www.marketbeat.com/cryptocurrencies/sureremit/"]
-screenshots : [ "static\img\ico\sureremit\screenshots\Screenshot (18).jpg",
-                "static\img\ico\sureremit\screenshots\Screenshot (19).jpg,
-                "static\img\ico\sureremit\screenshots\Screenshot (22).jpg",
-                "static\img\ico\sureremit\screenshots\Screenshot (23).jpg",]
+screenshots : [ "img/ico/sureremit/screenshots/Screenshot (18).jpg",
+                "img/ico/sureremit/screenshots/Screenshot (19).jpg",
+                "img/ico/sureremit/screenshots/Screenshot (20).jpg",
+                "img/ico/sureremit/screenshots/Screenshot (21).jpg",
+                "img/ico/sureremit/screenshots/Screenshot (22).jpg"]
 website : "https://sureremit.co/"
 whitepaper_url : "https://icorating.com/upload/whitepaper/1PzLDsIJsOx1aeFXEUK8Wy9JsnLuoNulxIrYOhVu.pdf"
 twitter_url : "https://twitter.com/sureremit"

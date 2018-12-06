@@ -5,8 +5,8 @@ tags : ["upcoming","Art"]
 categories : ["upcoming", "Art",]
 ticket : "Art"
 banner : ""
-logo : "static\img\ico\kultcoin\kultcoin-logo.jpg"
-image : "static\img\ico\kultcoin\kultcoin-backgroud.jpg"
+logo : "img/ico/kultcoin/kultcoin-logo.jpg"
+image : "img/ico/kultcoin/kultcoin-backgroud.jpg"
 description : "Culture CryptoCurrency"
 long_description: ""
 money_goal : ""
@@ -28,11 +28,11 @@ airdrop_live :
 country: FRANCE
 bounty : "https://ico.tempo.eu.com/bounty"
 additional_links : [""]
-screenshots :  [ "static\img\ico\kultcoin\screenshots\screenshot (43).jpg",
-                "static\img\ico\kultcoin\screenshots\Screenshot (44).jpg",
-                "static\img\ico\kultcoin\screenshots\Screenshot (45).jpg",
-                "static\img\ico\kultcoin\screenshots\Screenshot (46).jpg",
-                "static\img\ico\kultcoin\screenshots\Screenshot (47).jpg"]
+screenshots :  [ "img/ico/kultcoin/screenshots/Screenshot (43).jpg",
+                "img/ico/kultcoin/screenshots/screenshot (43).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (44).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (45).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (46).jpg"]
 website : "https://kultcoin.org/"
 whitepaper_url : "https://kultcoin.org/whitepaper/"
 twitter_url : "https://twitter.com/KultCoin"

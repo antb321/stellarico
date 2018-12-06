@@ -4,9 +4,9 @@ date : "01 Sep 2018"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
-banner : "static\img\ico\lendledger\lendledger-banner.png"
-logo : "static\img\ico\lendledger\lendledger-logo.jpg"
-image : "#"
+banner : "img/ico/lendledger/lendledger-banner.jpg"
+logo : "img/ico/lendledger/lendledger-logo.jpg"
+image : "img/ico/lendledger/lendledger-background.jpg"
 description : "The Future Of Lending"
 long_description: "LendLedger is the first blockchain-based open protocol connecting data providers, lenders and borrowers to help small businesses globally unlock the eight trillion dollars in loans they are unable to access today. LendLedger’s founders and advisors have created or led pioneering ventures in emerging markets, including SKS (First microfinance institution to IPO in India), FINO Paytech (70 million clients), and M-PESA in Kenya (largest mobile money provider globally). V.01 of the LendLedger protocol is already in use, powering $30 million in loan disbursements annually for Happy Loans, a licensed lender in India. Lenders leveraging the LendLedger protocol also do not need to hold crypto-assets, thereby significantly reducing barriers to adoption. Our LOANtokens, are used to unlock lending credits on the network and give access for data providers, borrowers and others."
 money_goal : 1,000,000,000
@@ -29,11 +29,11 @@ airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
 additional_links :""
-screenshots : [ "static\img\ico\lendledger\screenshots\Screenshot (1).png",
-                "static\img\ico\lendledger\screenshots\Screenshot (2).png",
-                "static\img\ico\lendledger\screenshots\Screenshot (3).png",
-                "static\img\ico\lendledger\screenshots\Screenshot (4).png",
-                "static\img\ico\lendledger\screenshots\Screenshot (5).png"]
+screenshots : [ "img/ico/lendledger/screenshots/lendledger-01.jpg",
+                "img/ico/lendledger/screenshots/lendledger-02.jpg",
+                "img/ico/lendledger/screenshots/lendledger-03.jpg",
+                "img/ico/lendledger/screenshots/lendledger-04.jpg",
+                "img/ico/lendledger/screenshots/lendledger-05.jpg"]
 website : "https://lendledger.io/"
 whitepaper_url : "https://lendledger.io/images/LendLedger-Overview-Optimized.pdf?pdf=LendLedger%20Overview"
 twitter_url : "https://twitter.com/LendLedger"
