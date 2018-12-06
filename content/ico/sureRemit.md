@@ -11,15 +11,15 @@ description : "An ecosystem for global non-cash remittances"
 long_description: "SureRemit connects immigrants abroad directly with merchants that provide the services needed by their loved ones back home. With Remit tokens, immigrants all over the world can access digital shopping vouchers that can be spent by loved ones on goods and services at accepting merchants wherever they are. They can also pay for hundreds of utility bills and mobile airtime credits directly from the SureRemit application.."
 money_goal : "10,000,000"
 goal : "10,000,000 (100%)"
-start_date: "10th Jan 2018 "
-end_date : "10th Feb 2018" "2018-02-10T00:00:00Z"
+start_date: "2018-01-10T00:00:00Z"
+end_date : "2018-02-10T00:00:00Z"
 rating : 3
 ticker : RMT
 token_type : STELLAR
 token_price: "0.0200 USD"
 softcap_goal:  
 fundraising_goal:  
-available_for_token_sale: 50%
+available_for_token_sale: 45%
 kyc: YES
 accepted_currency : XLM, ETH, BTC, LTC
 non_participate: NONE  
