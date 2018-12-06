@@ -1,8 +1,8 @@
 ---
 title : Ternio
 date : "2018-06-01T00:00:00Z"
-tags : ["completed","Payments","airdrop"]
-categories : ["completed", "Payments","airdrop"]
+tags : ["ended","Payments","airdrop"]
+categories : ["ended", "Payments","airdrop"]
 ticket : "Payments"
 banner : "img/ico/Ternio/ternio-banner.jpg"
 logo : "img/ico/Ternio/ternio-logo.jpg"
