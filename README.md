@@ -1,12 +1,11 @@
 ## What is StellarICO.Expert?
 
-It is the best way to promote your Stellar ICO, Stellar Token, Stellar Utility Token, Stellar Equity Token, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
+It is the best way to promote your Stellar ICO, Stellar Security Token Offer (STO), Stellar Utility Token, Stellar Equity Tokens, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
 
-While many other ico promotion sites charge for listings - Stellar ICO Expert is free. Stellar ICO Expert data is 100% driven by the community via github so all submissions and changes can be easily merged into our high performance static website. While on other sites your stellar token event may get overwhelmed by Ethereum s** coins.
-
+While many other ico promotion sites charge for listings - Stellar ICO Expert is free. Stellar ICO Expert data is 100% driven by the community via github so all submissions and changes can be easily merged into our high performance static website. While on other sites your stellar token event may get overwhelmed by Ethereum coins.
 To get listed you need to only follow two criteria. First it must use the stellar blockchain and second it must follow the stellar community guidelines https://www.stellar.org/community-guidelines/.
 
-The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format.nTo see your listing 24-48 hours after submitted visit https://stellarico.expert
+The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format. To see your listing 24-48 hours after submitted visit https://stellarico.expert and any other sites supporting this format.
 
 # How do you get started? 
 
@@ -65,7 +64,7 @@ Clone :
 
   - title : < title/name of the ico>
   - date : "2018-11-08T00:00:00Z"
-    - when ico is created
+    - when ico is created in iso format
   - tags : ["upcoming","Payments","airdrop"] 
     - add tags here are upcoming, ended, active
     - active is for icos currenty occuring, whereas upcoming are in the future and ended are complete
