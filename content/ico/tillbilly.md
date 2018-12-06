@@ -1,6 +1,6 @@
 ---
 title : TillyBilly
-date : "01 Sep 2018"
+date : "2018-09-01T00:00:00Z"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
@@ -20,7 +20,7 @@ token_price: "1 BILL = 1 XLM "
 softcap_goal: 11500000 XLM
 Hard cap : 115500000 XLM
 fundraising_goal:
-available_for_token_sale: 2,597%*
+available_for_token_sale:
 kyc:  NO
 accepted_currency :   XLM
 Non-participate: USA,CHINA
@@ -28,8 +28,8 @@ airdrop : YES
 airdrop_live : NO
 country: AUS
 bounty : "https://airtable.com/shrjnSIH3GCKMyzWd/tblTwbtKNN0EIUFCx"
-additional_links :""
-screenshots : [ "img/ico/tillbilly/screenshots/Screenshot (9).jpg",
+additional_links :
+screenshots : ["img/ico/tillbilly/screenshots/Screenshot (9).jpg",
                 "img/ico/tillbilly/screenshots/Screenshot (28).jpg",
                 "img/ico/tillbilly/screenshots/Screenshot (29).jpg",
                 "img/ico/tillbilly/screenshots/Screenshot (30).jpg",
@@ -41,9 +41,8 @@ telegram_url : "https://t.me/tillbilly"
 github_url: "https://github.com/TillBillyDev"
 reddit_url: "https://www.reddit.com/r/TillBilly/"
 facebook_url: "https://www.facebook.com/tillbillyapp/"
-Contact_Email: "hello@tillbilly.com"
-og_png: ""
-tw_png: ""
+og_png:
+tw_png:
 weight: 5
 
 ---
