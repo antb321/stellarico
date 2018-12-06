@@ -21,10 +21,10 @@ softcap_goal:  1,000,000,000
 Hard cap : 8000000 USD
 fundraising_goal:
 available_for_token_sale:45%
-kyc:YES
+kyc: YES
 accepted_currency :   ETH, BTC, XLM, Fiat
 Non-participate: USA, UK, China
-airdrop :YES
+airdrop : YES
 airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
