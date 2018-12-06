@@ -53,7 +53,7 @@ Clone :
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/1.png
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/2.png
      - /static/img/ico/tempocrypto/<new_iconame>/screenshots/3.png
-     
+   - No spaces in names please and use unix format   
 
 ## images size 
     logo 150x150 px
@@ -88,6 +88,7 @@ Clone :
  - goal : "7,000,000 (13%)"
  - start_date: "2018-11-08T00:00:00Z"
  - end_date : "2018-11-18T00:00:00Z"
+   - dates should be in iso format
  - rating : 
    - this is filled in automatically based on social proof. For Tokens that are live it comes from a 50/50 mixture of stellar.expert and stellarport ratings.
  - ticker : TEMPO
