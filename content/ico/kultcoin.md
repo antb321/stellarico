@@ -26,7 +26,7 @@ non_participate:
 airdrop :
 airdrop_live :
 country: FRANCE
-bounty : ""
+bounty : [""]
 additional_links : [""]
 screenshots :  ["img/ico/kultcoin/screenshots/Screenshot (43).jpg",
                 "img/ico/kultcoin/screenshots/screenshot (43).jpg",

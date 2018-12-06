@@ -27,7 +27,7 @@ airdrop : YES
 airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
-additional_links :[""]
+additional_links : [""]
 screenshots : ["img/ico/lendledger/screenshots/lendledger-01.jpg",
                 "img/ico/lendledger/screenshots/lendledger-02.jpg",
                 "img/ico/lendledger/screenshots/lendledger-03.jpg",
