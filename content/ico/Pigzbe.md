@@ -32,7 +32,7 @@ token_type : STELLAR
 token_price: "0.1200 USD"
 softcap_goal: 2,850,000 USD
 fundraising_goal: 8,850,000 USD
-available_for_token_sale: 20%
+available_for_token_sale: 
 kyc: YES
 accepted_currency :  ETH
 non_participate: 
@@ -47,8 +47,8 @@ screenshots : [ "/img/ico/Pigzbe/screenshots/1.png",
                 "/img/ico/Pigzbe/screenshots/2.png",
                 "/img/ico/Pigzbe/screenshots/3.png",
                 "/img/ico/Pigzbe/screenshots/4.png",]
-website : "https://ico.tempo.eu.com"
-whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
+website : "https://pigzbe.com/"
+whitepaper_url : "https://pigzbe.com/pdf/pigzbe_whitepaper.pdf"
 twitter_url : "https://twitter.com/pigzbe"
 telegram_url : "https://t.me/pigzbeico"
 github_url: "https://github.com/pigzbe"
