@@ -39,7 +39,7 @@ non_participate:
 airdrop : YES
 airdrop_live : NO
 country: Switzerland
-bounty : "https://ico.tempo.eu.com/bounty"
+bounty : ""
 additional_links : ["https://icobench.com/ico/pigzbe",
         "https://tokenmarket.net/blockchain/ethereum/assets/pigzbe/",
         "https://icoengine.net/ico/pigzbe"]
