@@ -1,0 +1,50 @@
+---
+title : Heirlooms
+date :  [""]
+tags : ["upcoming","Payments","airdrop"]
+categories : ["upcoming", "Payments"]
+ticket : "Payments"
+banner : "img/ico/Heirlooms/heir-banner.jpg"
+logo : "img/ico/Heirlooms/heir-logo.jpg"
+image : "img/ico/Heirlooms/heirl-background.jpg"
+description : "Next Generation Inheritance Planning & Digital Wills"
+long_description: "Heir is ushering in the next generation inheritance & estate planning solution to ensure digital and traditional real-world assets are protected for next of kin and loved ones. Our holistic suite of services powered by cutting-edge technology, provides all the benefits of a traditional estate plan, with none of the pitfall"
+money_goal :
+goal :
+start_date:  ["2018-06-30T00:00:00Z"]
+end_date: [""]
+rating : 3
+ticker : HEIR
+token_type : STELLAR
+token_price: "1 HEIR = 0.08 USD"
+softcap_goal: [""]
+fundraising_goal:
+available_for_token_sale: 50%
+kyc: NO
+accepted_currency : XLM,BTC,ETH
+Non-participate: [""]
+airdrop : [""]
+airdrop_live : NO
+country: [""]
+bounty : [""]
+additional_links : [""]
+screenshots : ["img/ico/Heirlooms/screenshots/1.heir.jpg",
+                "img/ico/Heirlooms/screenshots/2.heir.jpg",
+                "img/ico/Heirlooms/screenshots/3.heir.jpg",
+                "img/ico/Heirlooms/screenshots/4.heir.jpg",
+                "img/ico/Heirlooms/screenshots/5.heir.jpg"]
+website : "https://heir.io"
+whitepaper_url : "https://heir.io/heir_io_white_paper.pdf"
+twitter_url : "https://twitter.com/heir_io"
+telegram_url : "https://t.me/heir_io"
+github_url: [""]
+reddit_url: [""]
+facebook_url: [""]
+og_png:
+tw_png:
+weight: 5
+
+---
+
+
+{{< background_image >}}
