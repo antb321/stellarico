@@ -4,8 +4,8 @@ date : "2018-08-01T00:00:00Z"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
-banner : "img/ico/Scopuly/Scopuly-banner.jpg"
-logo : "img/ico/Scopuly/Scopuly-logo.jpg"
+banner : "img/ico/Scopuly/Scopuly-banner.png"
+logo : "img/ico/Scopuly/Scopuly-logo.png"
 image : "#"
 description : "P2P Trade in crypto Assets"
 long_description: "SCOPULY works on Stellar blockchain and is a fully decentralized platform. Stellar is focused on a specific task: fast, reliable and low-cost transactions for a large number of users. It is faster cheaper and more reliable for users of services that will be launched in Scopuly. Scopuly allows the user to safely store and instantly transfer crypto-currency assets, issue their own crypto tokens, launch ICO campaigns, invest in ICO projects, and also trade crypto assets on a decentralised SDEX exchange in real time. People can safely store, attract, spend, pay, and exchange crypto-currency assets in one convenient and safe application. Scopuly has its own crypto asset - SKY. Maintaining token demand will be ensured by the fact that it is only possible to attract financing for ICO projects in Scopuly only in SKY tokens and in no other assets. SKY's tokens are always available on crypto exchanges for trade / exchange. We also have the Scopuly referral scheme, when someone activates a bonus program from the users referral code, they get 10% from each activation.
@@ -36,10 +36,10 @@ country: Russia
 bounty : ""
 additional_links : ["https://icobench.com/ico/scopuly",
         "https://foundico.com/ico/scopuly.html"]
-screenshots : ["/img/ico/Scopuly/screenshots/1.jpg",
-				"/img/ico/Scopuly/screenshots/2.jpg",
-				"/img/ico/Scopuly/screenshots/3.jpg",
-                "/img/ico/Scopuly/screenshots/4.jpg"]
+screenshots : ["/img/ico/Scopuly/screenshots/1.png",
+				"/img/ico/Scopuly/screenshots/2.png",
+				"/img/ico/Scopuly/screenshots/3.png",
+                "/img/ico/Scopuly/screenshots/4.png"]
 website : "https://sky.scopuly.com/"
 whitepaper_url : "https://sky.scopuly.com/docs/wp_eng.pdf"
 twitter_url : "https://twitter.com/Scopuly_com"
