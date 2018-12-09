@@ -4,9 +4,9 @@ date : "2018-06-01T00:00:00Z"
 tags : ["active","Payments"]
 categories : ["active", "Payments"]
 ticket : "Payments"
-banner : "img/ico/BloomX/bloomx-banner.jpg"
-logo : "img/ico/BloomX/bloomx-logo.jpg"
-image : "/img/ico/BloomX/screenshots/5.jpg"
+banner : "img/ico/BloomX/BloomX-banner.png"
+logo : "img/ico/BloomX/BloomX-logo.png"
+image : "/img/ico/BloomX/screenshots/1.png"
 description : "Transforming Money Service Businesses"
 long_description: "BloomX is connecting neighborhood moneychangers across Asia to the Stellar decentralized exchange, and teaching people to use cryptocurrencies safely. Our Teller app will be used by moneychangers and remittance agents to buy/sell crypto over the counter, and our Wallet app will be used by end-customers to store their crypto and access other BloomX services. The BX8 token will be used to pay for each business transaction on the network, and additionally acts as cashback for the end-customers. We've signed up three big institutional partners in the Philippines to pilot the platform as early as Q3 2018, and aim to expand to neighboring countries by 2019.B
 
@@ -44,10 +44,10 @@ bounty : ""
 additional_links : ["https://www.trackico.io/ico/bloomx/#financial",
         "https://icobench.com/ico/bloomx",
         "https://www.trackico.io/ico/bloomx/#tab-statistics"]
-screenshots : [ "/img/ico/BloomX/screenshots/1.jpg",
-                "/img/ico/BloomX/screenshots/2.jpg",
-                "/img/ico/BloomX/screenshots/3.jpg",
-                "/img/ico/BloomX/screenshots/4.jpg",]
+screenshots : [ "/img/ico/BloomX/screenshots/1.png",
+                "/img/ico/BloomX/screenshots/2.png",
+                "/img/ico/BloomX/screenshots/3.png",
+                "/img/ico/BloomX/screenshots/4.png",]
 website : "https://bx8.io/?utm_source=trackico"
 whitepaper_url : "https://bx8.io/downloadables/whitepaper.pdf?locale=en"
 twitter_url : "https://twitter.com/bloomxorg"
