@@ -32,7 +32,7 @@ ticker : TEMPO
 token_type : BX8
 token_price: "0.0118 USD"
 softcap_goal: 8,000,000 USD
-fundraising_goal: 19,000,000 USD
+funds_softcap_goal: 19,000,000 USD
 available_for_token_sale: 3,888,888,888 BX8 (49%)
 kyc: YES 
 accepted_currency :  ETH, BTC, XLM

@@ -55,7 +55,7 @@ ticker : MOBI
 token_type : STELLAR
 token_price: "0.1600 USD"
 softcap_goal: 20,000,000 USD
-fundraising_goal: 39,000,000 USD
+funds_softcap_goal: 39,000,000 USD
 available_for_token_sale: 30%
 kyc: YES
 accepted_currency :  BTC, ETH, XLM

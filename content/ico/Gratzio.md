@@ -32,7 +32,7 @@ ticker : GRAT
 token_type : STELLAR
 token_price: "0.0500 USD"
 softcap_goal: 
-fundraising_goal: 29,000,000 USD
+funds_softcap_goal: 29,000,000 USD
 available_for_token_sale: 40%
 kyc: YES
 accepted_currency :  BTC, ETH, XLM

@@ -18,7 +18,7 @@ ticker : LOY
 token_type : STELLAR
 token_price: "1 LOY = 0.01 USD"
 softcap_goal: 250000 USD
-fundraising_goal:
+funds_softcap_goal:
 available_for_token_sale: 70%
 kyc: YES
 accepted_currency : ETH, BTC, BCH, Fiat

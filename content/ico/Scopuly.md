@@ -25,7 +25,7 @@ ticker : SKY
 token_type : SKY
 token_price: "1 SKY = 0.002 USD"
 softcap_goal: 
-fundraising_goal: "28,000,000 USD"
+funds_softcap_goal: "28,000,000 USD"
 available_for_token_sale: 7,678,180 (19.2%)
 kyc: YES 
 accepted_currency :  XLM

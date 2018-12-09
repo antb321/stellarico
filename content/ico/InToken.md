@@ -34,7 +34,7 @@ ticker : InToken
 token_type : STELLAR
 token_price: "0.0116 USD"
 softcap_goal: 3,000,000 EUR
-fundraising_goal: 38,000,000 EUR
+funds_softcap_goal: 38,000,000 EUR
 available_for_token_sale: 5,800,000,000
 kyc: YES
 accepted_currency :  ETH

@@ -27,7 +27,7 @@ ticker : TERN
 token_type : TERN
 token_price: "0.08 USD"
 softcap_goal: 3,000,000 USD
-fundraising_goal: 40,000,000 USD
+funds_softcap_goal: 40,000,000 USD
 available_for_token_sale: 49%
 kyc: YES 
 accepted_currency :  BTC, ETH, XLM, Fiat

@@ -20,7 +20,7 @@ ticker : TEMPO
 token_type : STELLAR
 token_price: "1 TEMPO = 0.1200 EUR"
 softcap_goal: 1,500,000 EUR
-fundraising_goal: 7,000,000 EUR
+funds_softcap_goal: 7,000,000 EUR
 available_for_token_sale: 20%
 kyc: YES (1 JAN - AUG – 7 SEP)
 accepted_currency :  BTC, ETH, XRP, XLM, EURT, EUR, JPY

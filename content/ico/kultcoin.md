@@ -18,7 +18,7 @@ ticker : Kult
 token_type : STELLAR
 token_price: 
 softcap_goal:  
-fundraising_goal:  
+funds_softcap_goal:  
 available_for_token_sale:
 kyc:  
 accepted_currency :  

@@ -32,7 +32,7 @@ ticker : SLT Token
 token_type : STELLAR
 token_price: "0.5000 USD"
 softcap_goal: 
-fundraising_goal: 25,000,000 USD
+funds_softcap_goal: 25,000,000 USD
 available_for_token_sale: 50,000,000
 kyc: YES
 accepted_currency : ETH, BTC, XML
