@@ -30,8 +30,8 @@ rating : 3
 ticker : WLO
 token_type : STELLAR
 token_price: "0.1200 USD"
-softcap_goal: 2,850,000 USD
-funds_softcap_goal: 8,850,000 USD
+funds_softcap_goal: 2,850,000 USD
+funds_hardcap_goal: 8,850,000 USD
 available_for_token_sale: 
 kyc: YES
 accepted_currency :  ETH

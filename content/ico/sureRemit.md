@@ -17,8 +17,8 @@ rating : 3
 ticker : RMT
 token_type : STELLAR
 token_price: "0.0200 USD"
-softcap_goal:  
 funds_softcap_goal:  
+funds_hardcap_goal:  
 available_for_token_sale: 45%
 kyc: YES
 accepted_currency : XLM, ETH, BTC, LTC

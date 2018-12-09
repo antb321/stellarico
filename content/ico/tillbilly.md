@@ -17,9 +17,9 @@ rating : 3
 ticker : BILL
 token_type : STELLAR
 token_price: "1 BILL = 1 XLM "
-softcap_goal: 11500000 XLM
+funds_softcap_goal: 11500000 XLM
 Hard cap : 115500000 XLM
-funds_softcap_goal:
+funds_hardcap_goal:
 available_for_token_sale:
 kyc: NO
 accepted_currency : XLM

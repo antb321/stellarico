@@ -17,8 +17,8 @@ rating : 3
 ticker : Kult
 token_type : STELLAR
 token_price: 
-softcap_goal:  
 funds_softcap_goal:  
+funds_hardcap_goal:  
 available_for_token_sale:
 kyc:  
 accepted_currency :  
