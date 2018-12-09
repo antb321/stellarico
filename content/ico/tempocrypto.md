@@ -32,11 +32,11 @@ bounty : "https://ico.tempo.eu.com/bounty"
 additional_links : ["https://sharespost.com/",
         "https://glassnet.io/downloads/GLASS_Executive_Summary.pdf",
         "https://glassnet.io/blog/"]
-screenshots : ["static/img/ico/tempocrypto/screenshots/1.jpg",
-                "static/img/ico/tempocrypto/screenshots/2.jpg",
-                "static/img/ico/tempocrypto/screenshots/3.jpg",
-                "static/img/ico/tempocrypto/screenshots/4.jpg",
-                "static/img/ico/tempocrypto/screenshots/5.jpg",]
+screenshots : ["static/img/ico/tempocrypto/screenshots/49.jpg",
+                "static/img/ico/tempocrypto/screenshots/50.jpg",
+                "static/img/ico/tempocrypto/screenshots/51.jpg",
+                "static/img/ico/tempocrypto/screenshots/52.jpg",
+                "static/img/ico/tempocrypto/screenshots/53.jpg",]
 website : "https://ico.tempo.eu.com"
 whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
 twitter_url : "https://twitter.com/tempo_eu"

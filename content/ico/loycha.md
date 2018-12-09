@@ -17,12 +17,13 @@ rating : 3
 ticker : LOY
 token_type : STELLAR
 token_price: "1 LOY = 0.01 USD"
-funds_softcap_goal: 250000 
-funds_hardcap_goal: 1500000 USD
+funds_softcap_goal : 250,000 
+funds_hardcap_goal : 1,500,000 USD
+funds_raise_todate :
 available_for_token_sale: 70%
 kyc: YES
 accepted_currency : ETH, BTC, BCH, Fiat
-Non-participate: [""]
+Non-participate: ""
 airdrop : ""
 airdrop_live : NO
 country: Kosovo
