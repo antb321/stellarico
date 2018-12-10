@@ -8,7 +8,11 @@ banner : [""]
 logo : "img/ico/sureremit/RMT-LOGO.jpg"
 image : "img/ico/sureremit/RMT-background.jpg"
 description : "An ecosystem for global non-cash remittances"
-long_description: "SureRemit connects immigrants abroad directly with merchants that provide the services needed by their loved ones back home. With Remit tokens, immigrants all over the world can access digital shopping vouchers that can be spent by loved ones on goods and services at accepting merchants wherever they are. They can also pay for hundreds of utility bills and mobile airtime credits directly from the SureRemit application.."
+long_description: "<p>
+<li>SureRemit connects immigrants abroad directly with merchants that provide the services needed by their loved ones back home. With Remit tokens, immigrants all over the world can access digital shopping vouchers that can be spent by loved ones on goods and services at accepting merchants wherever they are.
+</li>
+<li> They can also pay for hundreds of utility bills and mobile airtime credits directly from the SureRemit application.
+</li></p>"
 money_goal : "10,000,000"
 goal : "10,000,000 (100%)"
 start_date: "2018-01-10T00:00:00Z"
