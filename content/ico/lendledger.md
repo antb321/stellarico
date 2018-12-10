@@ -28,11 +28,11 @@ airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
 additional_links : [""]
-screenshots : ["img/ico/lendledger/screenshots/lendledger-01.jpg",
-                "img/ico/lendledger/screenshots/lendledger-02.jpg",
-                "img/ico/lendledger/screenshots/lendledger-03.jpg",
-                "img/ico/lendledger/screenshots/lendledger-04.jpg",
-                "img/ico/lendledger/screenshots/lendledger-05.jpg"]
+screenshots : ["static/img/ico/lendledger/screenshots/1.png",
+                "static/img/ico/lendledger/screenshots/2.png",
+                "static/img/ico/lendledger/screenshots/3.png",
+                "static/img/ico/lendledger/screenshots/4.png",
+                "static/img/ico/lendledger/screenshots/5.png"]
 website : "https://lendledger.io/"
 whitepaper_url : "https://lendledger.io/images/LendLedger-Overview-Optimized.pdf?pdf=LendLedger%20Overview"
 twitter_url : "https://twitter.com/LendLedger"
