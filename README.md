@@ -165,8 +165,11 @@ Clone :
    - string url format, optional
    - all these social sites are optional. If they are not included they will not appear on your page
   - stellarport_url : ""
-   - if this is and exisiting asset, go to stellarport.io, click on exchange, assets and search for the ticker.
+   - if this is an exisiting asset, go to stellarport.io, click on exchange, assets and search for the ticker.
    - url required if ended and Stellar ICO otherwise do not include
+  - stellarx_url : ""
+   - if this is an exisiting asset, go to stellarx.com, click on market and search for the ticker.
+   - url required if ended and Stellar ICO and is listed on stellarx otherwise do not include
  - stellarexpert_url : ""
     - go to stellar.expert and add the url to the asset 
     - type the ticker into the search box
