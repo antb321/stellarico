@@ -40,6 +40,8 @@ telegram_url : "https://t.me/heir_io"
 github_url: ""
 reddit_url: ""
 facebook_url: ""
+stellarexpert_url:
+stellarport_url:
 og_png:
 tw_png:
 weight: 5

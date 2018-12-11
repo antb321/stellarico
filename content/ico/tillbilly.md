@@ -46,6 +46,8 @@ telegram_url : "https://t.me/tillbilly"
 github_url: "https://github.com/TillBillyDev"
 reddit_url: "https://www.reddit.com/r/TillBilly/"
 facebook_url: "https://www.facebook.com/tillbillyapp/"
+stellarexpert_url: ""
+stellarport_url: ""
 og_png:
 tw_png:
 weight: 5

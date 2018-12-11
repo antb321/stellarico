@@ -25,8 +25,7 @@ ticker : LOY
 token_type : STELLAR
 token_price: "1 LOY = 0.01 USD"
 funds_softcap_goal : 250,000
-funds_hardcap_goal : 1,500,000 USD
-funds_raise_todate :
+funds_hardcap_goal:
 available_for_token_sale: 70%
 kyc: YES
 accepted_currency : ETH, BTC, BCH, Fiat
@@ -48,6 +47,8 @@ telegram_url : "https://t.me/loychaOfficial"
 github_url: ""
 reddit_url: [""]
 facebook_url: "https://www.facebook.com/loycha.official/?_rdc=1&_rdr"
+stellarexpert_url: "https://stellar.expert/explorer/public/asset?search=loycha"
+stellarport_url: "https://stellarport.io/assets/alphanum4/LOY/GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
 og_png:
 tw_png:
 weight: 5

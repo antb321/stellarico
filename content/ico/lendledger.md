@@ -50,7 +50,8 @@ telegram_url : "https://t.me/lendledger"
 github_url: "https://github.com/lendledger"
 reddit_url: "https://www.reddit.com/r/LendLedger/"
 facebook_url: [""]
-
+stellarexpert_url:
+stellarport_url:
 og_png: [""]
 tw_png: [""]
 weight: 5

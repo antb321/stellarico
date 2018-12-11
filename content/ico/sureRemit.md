@@ -44,6 +44,8 @@ telegram_url : "https://t.me/sureremit"
 github_url: "https://github.com/SureRemit"
 reddit_url: "https://www.reddit.com/r/sureremit/"
 facebook_url: "https://www.facebook.com/sureremit/"
+stellarexpert_url: "https://stellar.expert/explorer/public/asset?search=sureremit"
+stellarport_url: "https://stellarport.io/assets/alphanum4/RMT/GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N"
 og_png: [""]
 tw_png: [""]
 weight: 5
