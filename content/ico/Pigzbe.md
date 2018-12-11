@@ -8,20 +8,36 @@ banner : "img/ico/Pigzbe/Pigzbe-banner.png"
 logo : "img/ico/Pigzbe/Pigzbe-logo.png"
 image : "/img/ico/Pigzbe/screenshots/1.png"
 description : "A Piggy-Wallet Not a Piggy Bank"
-long_description: "Pigzbe uses the blockchain to make money transfers within families borderless, safe, and instant. By unlocking the potential of globalised families as micro-financing networks, Pigzbe teaches children about money in the 21st century.
+long_description: "
+<p>
+	Pigzbe uses the blockchain to make money transfers within families borderless, safe, and instant. By unlocking the potential of globalised families as micro-financing networks, Pigzbe teaches children about money in the 21st century.
+</p>
 <br><br>
-<h3>About Pigzbe</h3>
-Our goal is to help children and their families learn the  principles of 21st century finance through cryptocurrency  savings and hands-on play.  
-<br><br>
-Financial literacy will be an important 21st-century skill, and finding ways to introduce  earning, saving and managing money principles at a young age will help children  begin to develop these necessary skills. 
-<br><br>
-Pigzbe is a part physical and part digital piggy-wallet for children aged 6 and up,  powered by Wollo, your child’s first cryptocurrency. Think of Pigzbe as a friendly,  tangible financial assistant that will teach children the principles of modern money in  an exciting and safe system that harnesses children's natural drive to learn through  self-correcting, practical experimentation. 
-<br><br>
-Wollo is Pigzbe’s native token, and when used with the Pigzbe digital wallet and  physical device, provides an effective, age-appropriate learning experience for  children, while enabling families to come together as microfinancing networks. 
-<br><br>
-Pigzbe is here to contribute to the building of an open, decentralised world where  financial education is accessible to anyone, anywhere. Our goal is to accelerate the  uptake of cryptocurrencies globally with a token, and a product, designed to  empower the young and young at heart. 
-<br><br>
-Pigzbe combines the latest in connected technology, tangible interface design, and  blockchain technology to reach an underbanked generation of children and families  by ushering in a new piggy-banking paradigm powered by their children’s first  cryptocurrency and hardware wallet. We call it a piggy-wallet!"
+<b><h3>About Pigzbe</h3></b>
+<br>
+<p>
+	Our goal is to help children and their families learn the  principles of 21st century finance through cryptocurrency  savings and hands-on play.  
+</p>
+<br>
+<p>
+	Financial literacy will be an important 21st-century skill, and finding ways to introduce  earning, saving and managing money principles at a young age will help children  begin to develop these necessary skills. 
+</p>
+<br>
+<p>
+	Pigzbe is a part physical and part digital piggy-wallet for children aged 6 and up,  powered by Wollo, your child’s first cryptocurrency. Think of Pigzbe as a friendly,  tangible financial assistant that will teach children the principles of modern money in  an exciting and safe system that harnesses children's natural drive to learn through  self-correcting, practical experimentation. 
+</p>
+<br>
+<p>
+	Wollo is Pigzbe’s native token, and when used with the Pigzbe digital wallet and  physical device, provides an effective, age-appropriate learning experience for  children, while enabling families to come together as microfinancing networks. 
+</p>
+<br>
+<p>
+	Pigzbe is here to contribute to the building of an open, decentralised world where  financial education is accessible to anyone, anywhere. Our goal is to accelerate the  uptake of cryptocurrencies globally with a token, and a product, designed to  empower the young and young at heart. 
+</p>
+<br>
+<p>
+	Pigzbe combines the latest in connected technology, tangible interface design, and  blockchain technology to reach an underbanked generation of children and families  by ushering in a new piggy-banking paradigm powered by their children’s first  cryptocurrency and hardware wallet. We call it a piggy-wallet!
+</p>"
 money_goal : "1,000,000"
 goal : "8,850,000 USD"
 start_date: "2018-06-05T00:00:00Z"

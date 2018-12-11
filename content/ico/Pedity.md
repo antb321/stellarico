@@ -8,7 +8,12 @@ banner : "img/ico/Pedity/Pedity-banner.png"
 logo : "img/ico/Pedity/Pedity-logo.png"
 image : "/img/ico/Pedity/screenshots/1.png"
 description : "An unbiased Content sharing platform that rewards users in form of PEDI."
-long_description: "Pedity is a simple community oriented content sharing platform where every user is rewarded PEDI tokens based on content and not on upvotes/votes from other users. The term content is referred here to various possible categories listed below and are not not just limited to these -
+long_description: "
+<b><h3>About PEDITY</h3></b>
+<br>
+<p>
+	Pedity is a simple community oriented content sharing platform where every user is rewarded PEDI tokens based on content and not on upvotes/votes from other users. The term content is referred here to various possible categories listed below and are not not just limited to these -
+</p>
 <ul>
 	<li>Articles - Similar to Steemit but users don't have to depend on upvotes<li>
 	<li>Videos - Similar to a media platform like LBRY which rewards user for video sharing<li>
