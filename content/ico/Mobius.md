@@ -8,7 +8,10 @@ banner : "img/ico/Mobius/Mobius-banner.png"
 logo : "img/ico/Mobius/Mobius-logo.png"
 image : "/img/ico/Mobius/screenshots/1.png"
 description : "Connecting every developer to the Blockchain"
-long_description: "Mobius closes the gap between the internet world and blockchain world through innovative and simple protocols that introduce new standards for cross-blockchain login, payment, governance, and oracles.
+long_description: "
+<p>
+	Mobius closes the gap between the internet world and blockchain world through innovative and simple protocols that introduce new standards for cross-blockchain login, payment, governance, and oracles.
+</p>
 <br><br>
 <h3>About Mobius Network</h3>
 <br>
@@ -34,16 +37,21 @@ Mobius closes the gap between the internet world and blockchain world through in
 <ul>
 	<li>
 		<b>INTEROPERABLE</b>
-		<p>The Mobius universal protocol APIs work across all blockchains and connect the internet world to the blockchain ecosystem so developers only have to learn and support one standard.
-SIMPLE</p>
+		<p>
+			The Mobius universal protocol APIs work across all blockchains and connect the internet world to the blockchain ecosystem so developers only have to learn and support one standard.
+		</p>
 	</li>
 	<li>
 		<b>SIMPLE</b>
-		<p>The Mobius protocols allow developers to easily implement and support advanced decentralized blockchain features such as token payments, login, governance, and oracles.</p>
+		<p>
+			The Mobius protocols allow developers to easily implement and support advanced decentralized blockchain features such as token payments, login, governance, and oracles.
+		</p>
 	</li>
 	<li>
 		<b>SECURE</b>
-		<p>Mobius takes care of security so developers do not have to by requiring SSL and encryption throughout the Network and using cold storage with multi-signature wallets.</p>
+		<p>
+			Mobius takes care of security so developers do not have to by requiring SSL and encryption throughout the Network and using cold storage with multi-signature wallets.
+		</p>
 	</li>
 </ul>"
 money_goal : "1,000,000"
