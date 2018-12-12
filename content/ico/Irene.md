@@ -21,15 +21,15 @@ long_description: "
 <br>
 <p>
 	Consumers: Irene acts as a personal energy supplier that allows consumers to individually select which producers they wish to buy their electricity from (independent producers, local businesses, neighbours, ...). The selection process is gamified (swiping right and left). Artificial Intelligence ensures that this selection drives the customer’s actual purchases, every 15min, as closely as possible. Blockchain-enabled traceability ensures that past purchases are verifiable. As such, Irene gives back to consumers absolute control over their electricity spending – while tech-enabled efficiency also allows to offer them cheaper fares.
-</p>"
+</p>
 <br>
 <p>
 	Producers: transparency means that participating in the fight against global warming is no longer an anonymous activity. With Irene, a company (for example installing photovoltaic panels on its roofs) lets its local community know when they consume its electricity – instead of anonymously selling its excess electricity back to the grid. Irene allows producers to monetize their excess production, with the unique additional upside of showcasing their wider activities and building their local corporate reputation. Irene’s backbone is the Stellar blockchain. Blockchain-based back-office operations enable Irene (i) to settle transactions every 15min – introducing flexibility and guaranteeing precise origins to consumers, (ii) to make these cash-flows public (yet pseudo-anonymous) – introducing verifiability and transparency, and (iii) to be lean and efficient – lowering costs to final users. Stellar was chosen for its scalability, its transaction speed, its low transaction costs and its energy efficiency. 
-</p>"
+</p>
 <br>
 <p>
 	Artificial Intelligence and the latest breakthroughs in signal processing allow Irene to manage, schedule and dispatch 2-way electricity flows and to forecast actual consumptions and productions.
-</p>"
+</p>
 <br>
 <p>
 	Tellus are Irene’s exchange tokens and the world’s first clean and green tokens. Tellus are necessary to participate to the platform – where they settle their market-value-equivalent in Irene bills: meaning where they allow one to pay for green electricity. They are based on the eco-friendly and socially-responsible Stellar blockchain. And purchasing Tellus will always be subject to having passed KYC/AML questionnaires.
