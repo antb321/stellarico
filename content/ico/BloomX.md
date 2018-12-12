@@ -46,8 +46,8 @@ goal : "19,000,000 USD"
 start_date: "2018-06-01T00:00:00Z"
 end_date : "2019-05-31T00:00:00Z"
 rating : 3
-ticker : TEMPO
-token_type : BX8
+ticker : BX8
+token_type : STELLAR
 token_price: "0.0118 USD"
 softcap_goal: 8,000,000 USD
 fundraising_goal: 19,000,000 USD

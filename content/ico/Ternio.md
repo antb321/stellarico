@@ -34,7 +34,7 @@ start_date: "2018-06-01T00:00:00Z"
 end_date : "2018-06-15T00:00:00Z"
 rating : 3
 ticker : TERN
-token_type : TERN
+token_type : STELLAR
 token_price: "0.08 USD"
 softcap_goal: 3,000,000 USD
 fundraising_goal: 40,000,000 USD
