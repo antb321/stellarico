@@ -8,7 +8,12 @@ banner : "img/ico/tillbilly/Tillbilly-banner.jpg"
 logo : "img/ico/tillbilly/TillBilly-logo.jpg"
 image : "img/ico/tillbilly/Tillbilly-background.jpg"
 description : "Blockchain for Mass Adoption in Retail Payments"
-long_description: "TillBilly aims to bring blockchain to the mainstream retail. TillBilly is a Stellar based digital payments network with a unique point of sale hardware terminal that empowers everyday shoppers to make contactless payments, automatically get digital receipts (tax invoices) and collect loyalty reward points, without the complexity or price volatility associated with cryptocurrencies TillBilly bypasses the middlemen Merchant Services providers (card processing companies, payment gateways) who charge high processing fees per transaction (1.5% - 3.5%) and provides an ultra low fee payments network, so the shopper pays less, and the merchant gets more Protects both shoppers and merchants against any cryptocurrency price volatility. Provides a seamless way of funding wallets within app, and making payments through our proprietary tap-and-go (NFC) payment terminals. Complexities of blockchain and cryptocurrencies are hidden from shoppers and merchants."
+long_description: "<p>
+<li>TillBilly aims to bring blockchain to the mainstream retail.</li>
+<li>TillBilly is a Stellar based digital payments network with a unique point of sale hardware terminal that empowers everyday shoppers to make contactless payments, automatically get digital receipts (tax invoices) and collect loyalty reward points, without the complexity or price volatility associated with cryptocurrencies.</li> <li>TillBilly bypasses the middlemen Merchant Services providers (card processing companies, payment gateways) who charge high processing fees per transaction (1.5% - 3.5%) and provides an ultra low fee payments network, so the shopper pays less, and the merchant gets more Protects both shoppers and merchants against any cryptocurrency price volatility.</li>
+<li> Provides a seamless way of funding wallets within app, and making payments through our proprietary tap-and-go (NFC) payment terminals. Complexities of blockchain and cryptocurrencies are hidden from shoppers and merchants.
+</li>
+</p>"
 money_goal :
 goal :
 start_date: "2018-11-16T00:00:00Z"
@@ -41,6 +46,8 @@ telegram_url : "https://t.me/tillbilly"
 github_url: "https://github.com/TillBillyDev"
 reddit_url: "https://www.reddit.com/r/TillBilly/"
 facebook_url: "https://www.facebook.com/tillbillyapp/"
+stellarexpert_url: ""
+stellarport_url: ""
 og_png:
 tw_png:
 weight: 5

@@ -8,7 +8,17 @@ banner : "img/ico/lendledger/lendledger-banner.jpg"
 logo : "img/ico/lendledger/lendledger-logo.jpg"
 image : "img/ico/lendledger/lendledger-background.jpg"
 description : "The Future Of Lending"
-long_description: "LendLedger is the first blockchain-based open protocol connecting data providers, lenders and borrowers to help small businesses globally unlock the eight trillion dollars in loans they are unable to access today. LendLedger’s founders and advisors have created or led pioneering ventures in emerging markets, including SKS (First microfinance institution to IPO in India), FINO Paytech (70 million clients), and M-PESA in Kenya (largest mobile money provider globally). V.01 of the LendLedger protocol is already in use, powering $30 million in loan disbursements annually for Happy Loans, a licensed lender in India. Lenders leveraging the LendLedger protocol also do not need to hold crypto-assets, thereby significantly reducing barriers to adoption. Our LOANtokens, are used to unlock lending credits on the network and give access for data providers, borrowers and others."
+long_description: "<p>LendLedger is the first blockchain-based open protocol connecting data providers, lenders and borrowers to help small businesses globally unlock the eight trillion dollars in loans they are unable to access today.</p>
+<h2> Pioneering Ventures by LendLedger.</h2>
+<p>
+<li>LendLedger’s founders and advisors have created or led pioneering ventures in emerging markets, including:
+<ul>
+ <li>SKS (First microfinance institution to IPO in India)</li>
+ <li>FINO Paytech (70 million clients)</li>
+ <li>M-PESA in Kenya (largest mobile money provider globally).</li></li>
+ </ul>
+<li>V.01 of the LendLedger protocol is already in use, powering $30 million in loan disbursements annually for Happy Loans, a licensed lender in India. Lenders leveraging the LendLedger protocol also do not need to hold crypto-assets, thereby significantly reducing barriers to adoption.</li>
+<li>Our LOANtokens, are used to unlock lending credits on the network and give access for data providers, borrowers and others.</li></p>"
 money_goal : 1,000,000,000
 goal : 450,000,000 (45%)
 start_date: "2018-10-29T00:00:00Z"
@@ -40,7 +50,8 @@ telegram_url : "https://t.me/lendledger"
 github_url: "https://github.com/lendledger"
 reddit_url: "https://www.reddit.com/r/LendLedger/"
 facebook_url: [""]
-
+stellarexpert_url:
+stellarport_url:
 og_png: [""]
 tw_png: [""]
 weight: 5
