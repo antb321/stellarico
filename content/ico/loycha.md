@@ -6,7 +6,7 @@ categories : ["upcoming", "Payments"]
 ticket : "Payments"
 banner : "img/ico/Loycha/loycha-banner.jpg"
 logo : "img/ico/Loycha/loycha-logo.jpg"
-image : [""]
+image : ""
 description : "Coin that Pays You for Your Shopping"
 long_description: "Loycha will disrupt the marketing sector by removing the middleman (the main idea behind Bitcoin and Blockchain) and enabling the companies and their customers to interact directly in a win-win model.
 <br><br>
@@ -30,8 +30,6 @@ available_for_token_sale: 70%
 kyc: YES
 accepted_currency : ETH, BTC, BCH, Fiat
 Non-participate: ""
-airdrop : ""
-airdrop_live : NO
 country: Kosovo
 bounty : "https://loycha.com/bounty-program/"
 additional_links : ["http://twibee.com/loycha_official/"]
@@ -45,7 +43,7 @@ whitepaper_url : "https://loycha.com/whitepaper.pdf"
 twitter_url : "https://twitter.com/loycha_official"
 telegram_url : "https://t.me/loychaOfficial"
 github_url: ""
-reddit_url: [""]
+reddit_url: ""
 facebook_url: "https://www.facebook.com/loycha.official/?_rdc=1&_rdr"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset?search=loycha"
 stellarport_url: "https://stellarport.io/assets/alphanum4/LOY/GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
