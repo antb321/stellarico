@@ -34,7 +34,7 @@ start_date: "2018-08-01T00:00:00Z"
 end_date : "2019-01-01T00:00:00Z"
 rating : 3
 ticker : SKY
-token_type : SKY
+token_type : STELLAR
 token_price: "1 SKY = 0.002 USD"
 funds_softcap_goal: 
 funds_hardcap_goal: "28,000,000 USD"
