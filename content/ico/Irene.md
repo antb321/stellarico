@@ -34,7 +34,7 @@ long_description: "
 <p>
 	Tellus are Irene’s exchange tokens and the world’s first clean and green tokens. Tellus are necessary to participate to the platform – where they settle their market-value-equivalent in Irene bills: meaning where they allow one to pay for green electricity. They are based on the eco-friendly and socially-responsible Stellar blockchain. And purchasing Tellus will always be subject to having passed KYC/AML questionnaires.
 </p>"
-money_goal : ""
+
 goal : "250,000,000 TLU"
 start_date: "2018-05-07T00:00:00Z"
 end_date : "2018-06-18T00:00:00Z"
@@ -48,8 +48,6 @@ available_for_token_sale: 500,000,000
 kyc: YES 
 accepted_currency :  XLM
 non_participate: China and US
-airdrop : NO
-airdrop_live : NO
 country: France
 bounty : ""
 additional_links : ["https://icoholder.com/en/irene-energy-18454",
@@ -70,6 +68,7 @@ youtube_url: ""
 linkedin_url: ""
 stellarport_url: "https://stellarport.io/assets/alphanum12/TELLUS/GBBRMEXJMS3L7Y3DZZ2AHBD545GZ72OAEHHEFKGZAHHASHGWMHK5P6PL"
 stellarexpert_url: ""
+stellarx_url: ""
 og_png: ""
 tw_png: ""
 weight: 5
