@@ -8,7 +8,7 @@ banner : "img/ico/Frasindo/Frasindo-banner.png"
 logo : "img/ico/Frasindo/Frasindo-logo.png"
 image : "/img/ico/Frasindo/screenshots/1.png"
 description : "Safe and Secure"
-long_description: "
+long_description: '
 <p>
 	FRAS COIN is a Blockchain & Start-Up Incubator which have self-sustainability (have its own routine income), offers lifetime passive coin income + CAR COIN* as dividend. The routine income comes from the “Online-Taxi + car rental + driver recruitment” business, as an Official Uber, Grab and Gocar partner in Indonesia. Backed by real companies, have real assets (Cars), and “certificates of assets” are kept indefinitely by the NXT Foundation in Netherlands, also real legalized by the Indonesian government + many more; It’s the only asset available, that offers multi-protection & multi-benefits & multi-surveillance (LIVE 24hour) to public.
 </p>
@@ -17,7 +17,7 @@ long_description: "
 <br>
 <p>
 	FRAS COIN is short for "Frasindo Rent", it is a Self- sustainable Blockchain & StartUp Incubator. The main company has an advantage to be a fully working car rental company, a supplier for ONLINE TAXI. Frasindo was authorized by the government as an official partner of UBER, GRAB, and GOCAR in Indonesia. Apart from Online Taxi, we also renting out the car to the corporate.
-</p>"
+</p>'
 money_goal : ""
 goal : ""
 start_date: "2018-02-15T00:00:00Z"

@@ -4,9 +4,9 @@ date : "2018-01-21T00:00:00Z"
 tags : ["ended","Payments"]
 categories : ["ended", "Payments"]
 ticket : "Payments"
-banner : "img/ico/HoToKeN/HoToKeN-banner.png"
-logo : "img/ico/HoToKeN/HoToKeN-logo.png"
-image : "/img/ico/HoToKeN/screenshots/1.png"
+banner : "img/ico/Hotoken/Hotoken-banner.png"
+logo : "img/ico/Hotoken/Hotoken-logo.png"
+image : "/img/ico/Hotoken/screenshots/1.png"
 description : "Discovery platform for shops and promotions"
 long_description: "
 <p>
@@ -43,10 +43,10 @@ bounty : ""
 additional_links : ["https://www.coingecko.com/en/ico/hotoken",
         "https://icobench.com/ico/hotoken",
         "https://www.icotokennews.com/icos/lalaworld/"]
-screenshots : [ "/img/ico/HoToKeN/screenshots/1.png",
-                "/img/ico/HoToKeN/screenshots/2.png",
-                "/img/ico/HoToKeN/screenshots/3.png",
-                "/img/ico/HoToKeN/screenshots/4.png",]
+screenshots : [ "/img/ico/Hotoken/screenshots/1.png",
+                "/img/ico/Hotoken/screenshots/2.png",
+                "/img/ico/Hotoken/screenshots/3.png",
+                "/img/ico/Hotoken/screenshots/4.png",]
 website : "https://www.hotoken.io/"
 whitepaper_url : ""
 twitter_url : "https://twitter.com/HoToKeN_ICO"
