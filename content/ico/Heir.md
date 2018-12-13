@@ -1,6 +1,6 @@
 ---
 title : Heir
-date : ""
+date : "TBD"
 tags : ["upcoming","Payments"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
@@ -14,7 +14,7 @@ long_description: "
 <b><h3>About Heir<h3></b>
 <br>
 <p>
-	Heir ’s near -term vision will focus on securing and distributing individuals’ cryptocurrency holdings for and to beneficiaries. Our long -term vision is far -reaching; to enable traditional liquid and non -liquid assets (e.g. fiat money, real estate, property, material possessions, etc.) to be tokenized/adapted to the blockchain and steered away from present day estate planning pitfalls, in addition to allowing individuals to preserve their wealth for far -future generations and progeny. By bringing Heir ’s vision to fruition, wills and trusts will no longer be vulnerable to corruption through malicious intent and modification. The risks associated with storing and entrusting sensitive estate documents to individuals will be eliminated. The days of exuberant up -front estate legal fees and complexity, will dwindle and cease to exist. The stipulations and clauses of an individual ’s will/trust will no longer be susceptible to misinterpretation. Liquid assets will no longer be prone to account freezes by probate courts, financial institutions, or other third parties. The security and safety of an individual ’s next of kin and future offspring will not be jeopardized. Legacies will be preserved. Progenies will be served. Heir will secure our collective futures.
+	Heir’s near -term vision will focus on securing and distributing individuals’ cryptocurrency holdings for and to beneficiaries. Our long -term vision is far -reaching; to enable traditional liquid and non -liquid assets (e.g. fiat money, real estate, property, material possessions, etc.) to be tokenized/adapted to the blockchain and steered away from present day estate planning pitfalls, in addition to allowing individuals to preserve their wealth for far -future generations and progeny. By bringing Heir ’s vision to fruition, wills and trusts will no longer be vulnerable to corruption through malicious intent and modification. The risks associated with storing and entrusting sensitive estate documents to individuals will be eliminated. The days of exuberant up -front estate legal fees and complexity, will dwindle and cease to exist. The stipulations and clauses of an individual ’s will/trust will no longer be susceptible to misinterpretation. Liquid assets will no longer be prone to account freezes by probate courts, financial institutions, or other third parties. The security and safety of an individual ’s next of kin and future offspring will not be jeopardized. Legacies will be preserved. Progenies will be served. Heir will secure our collective futures.
 </p>
 "
 money_goal : ""
