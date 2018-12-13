@@ -33,11 +33,11 @@ Non-participate: ""
 country: Kosovo
 bounty : "https://loycha.com/bounty-program/"
 additional_links : ["http://twibee.com/loycha_official/"]
-screenshots : ["img/ico/Loycha/screenshots/1.loy.jpg",
-                "img/ico/Loycha/screenshots/2.loy.jpg",
-                "img/ico/Loycha/screenshots/3.loy.jpg",
-                "img/ico/Loycha/screenshots/4.loy.jpg",
-                "img/ico/Loycha/screenshots/5.loy.jpg"]
+screenshots : ["img/ico/Loycha/screenshots/1.jpg",
+                "img/ico/Loycha/screenshots/2.jpg",
+                "img/ico/Loycha/screenshots/3.jpg",
+                "img/ico/Loycha/screenshots/4.jpg",
+                "img/ico/Loycha/screenshots/5.jpg"]
 website : "https://loycha.com/"
 whitepaper_url : "https://loycha.com/whitepaper.pdf"
 twitter_url : "https://twitter.com/loycha_official"
