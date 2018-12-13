@@ -1,6 +1,6 @@
 ---
 title : STEMchain
-date : "2018-02-08T00:00:00Z"
+date : "2018-01-01T00:00:00Z"
 tags : ["active","Payments"]
 categories : ["active", "Payments"]
 ticket : "Payments"
@@ -25,8 +25,8 @@ long_description: "
 </p>"
 money_goal : ""
 goal : ""
-start_date: "2018-02-08T00:00:00Z"
-end_date : ""
+start_date: "2018-01-01T00:00:00Z"
+end_date : "2018-12-31T00:00:00Z"
 rating : 3
 ticker : STEM
 token_type : STELLAR
