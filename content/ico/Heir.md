@@ -1,6 +1,6 @@
 ---
 title : Heir
-date : "TBD"
+date : ""
 tags : ["upcoming","Payments"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
