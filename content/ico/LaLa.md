@@ -55,7 +55,8 @@ additional_links : ["https://icodrops.com/lala-world/",
 screenshots : [ "/img/ico/LaLa/screenshots/1.png",
                 "/img/ico/LaLa/screenshots/2.png",
                 "/img/ico/LaLa/screenshots/3.png",
-                "/img/ico/LaLa/screenshots/4.png",]
+                "/img/ico/LaLa/screenshots/4.png",
+				"/img/ico/LaLa/screenshots/4.png"]
 website : "https://lalaworld.io/"
 whitepaper_url : "https://lalaworld.io/whitepaper.pdf"
 twitter_url : "https://twitter.com/MyLaLaWorld"
