@@ -1,9 +1,9 @@
 ---
 title : LaLa World
 date : "2018-01-05T00:00:00Z"
-tags : ["ended","Payments","airdrop"]
-categories : ["ended", "Payments","airdrop"]
-ticket : "Payments"
+tags : ["ended","Finance","airdrop"]
+categories : ["ended", "Finance","airdrop"]
+ticket : "Finance"
 banner : "img/ico/LaLa/LaLa-banner.png"
 logo : "img/ico/LaLa/LaLa-logo.png"
 image : "/img/ico/LaLa/screenshots/1.png"
@@ -31,11 +31,10 @@ long_description: "
 	LALA uses Smart Contracts embedded into transactions that further simplify complex procurement, negotiation and verification processes.
 </p>
 "
-money_goal : ""
 goal : "15000 ETH"
 start_date: "2018-01-05T00:00:00Z"
 end_date : "2018-02-05T00:00:00Z"
-rating : 3
+rating : 2
 ticker : LALA
 token_type : STELLAR
 token_price: "0.1300 USD"
@@ -70,7 +69,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/LALA/GDTH62LZHEMDIQWAZ
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 3
 
 ---
 

@@ -23,7 +23,7 @@ money_goal : 1,000,000,000
 goal : 450,000,000 (45%)
 start_date: "2018-10-29T00:00:00Z"
 end_date :  "2018-12-15T00:00:00Z"
-rating : 3
+rating : 2
 ticker : loan
 token_type : STELLAR
 token_price: "1 LOAN = 0.05 USD"
@@ -37,7 +37,7 @@ airdrop : YES
 airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
-additional_links : [""]
+additional_links : ""
 screenshots : ["static/img/ico/lendledger/screenshots/1.png",
                 "static/img/ico/lendledger/screenshots/2.png",
                 "static/img/ico/lendledger/screenshots/3.png",
@@ -49,12 +49,12 @@ twitter_url : "https://twitter.com/LendLedger"
 telegram_url : "https://t.me/lendledger"
 github_url: "https://github.com/lendledger"
 reddit_url: "https://www.reddit.com/r/LendLedger/"
-facebook_url: [""]
+facebook_url: ""
 stellarexpert_url:
 stellarport_url:
-og_png: [""]
-tw_png: [""]
-weight: 5
+og_png: ""
+tw_png: ""
+weight: 4
 
 ---
 

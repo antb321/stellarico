@@ -23,8 +23,6 @@ long_description: "
 <p>
 	After the STEM organizations, receive the donations there is little or no transparency on how the funds are used or whether they are used for the intended purpose. STEMChain will offer a solution to these shortcomings through its ecosystem.
 </p>"
-money_goal : ""
-goal : ""
 start_date: "2018-01-01T00:00:00Z"
 end_date : "2018-12-31T00:00:00Z"
 rating : 3
@@ -60,7 +58,7 @@ stellarport_url: ""
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 2
 
 ---
 

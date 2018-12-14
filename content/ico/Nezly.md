@@ -1,8 +1,8 @@
 ---
 title : Nezly Semi-Private Presale
 date : "2018-03-15T00:00:00Z"
-tags : ["active","Payments","airdrop"]
-categories : ["active", "Payments","airdrop"]
+tags : ["ended","Payments","airdrop"]
+categories : ["ended", "Payments","airdrop"]
 ticket : "Payments"
 banner : "img/ico/Nezly/Nezly-banner.png"
 logo : "img/ico/Nezly/Nezly-logo.png"
@@ -47,8 +47,8 @@ long_description: "
 money_goal : ""
 goal : "30,400,000 USD"
 start_date: "2018-03-15T00:00:00Z"
-end_date : "2018-04-20T00:00:00Z"
-rating : 3
+end_date : "2019-04-20T00:00:00Z"
+rating : 2
 ticker : NEZ
 token_type : STELLAR
 token_price: "0.3USD"
@@ -58,8 +58,6 @@ available_for_token_sale: 168,000,000
 kyc: NO 
 accepted_currency : BTC, ETH, XLM, Fiat
 non_participate: 
-airdrop : YES
-airdrop_live : NO
 country: Canada
 bounty : ""
 additional_links : ["https://icobench.com/ico/nezly-semi-private-presale",
@@ -82,7 +80,7 @@ stellarport_url: ""
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 2
 
 ---
 

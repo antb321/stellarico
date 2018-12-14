@@ -22,8 +22,6 @@ long_description: "
 the person who has asked question will also be rewarded<li>
 	<li>And much more ... that will be revealed with beta time frame<li>
 </ul>"
-money_goal : "1,000,000"
-goal : ""
 start_date: "2018-05-01T00:00:00Z"
 end_date : "2018-06-01T00:00:00Z"
 rating : 3
