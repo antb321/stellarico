@@ -4,8 +4,8 @@ date : "2018-08-01T00:00:00Z"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
-banner : "img/ico/Scopuly/Scopuly-banner.png"
-logo : "img/ico/Scopuly/Scopuly-logo.png"
+banner : "img/ico/scopuly/Scopuly-banner.png"
+logo : "img/ico/scopuly/Scopuly-logo.png"
 image : "#"
 description : "
 P2P Trade in crypto Assets"
@@ -48,10 +48,10 @@ country: Russia
 bounty : ""
 additional_links : ["https://icobench.com/ico/scopuly",
         "https://foundico.com/ico/scopuly.html"]
-screenshots : ["/img/ico/Scopuly/screenshots/1.png",
-				"/img/ico/Scopuly/screenshots/2.png",
-				"/img/ico/Scopuly/screenshots/3.png",
-                "/img/ico/Scopuly/screenshots/4.png"]
+screenshots : ["/img/ico/scopuly/screenshots/1.png",
+				"/img/ico/scopuly/screenshots/2.png",
+				"/img/ico/scopuly/screenshots/3.png",
+                "/img/ico/scopuly/screenshots/4.png"]
 website : "https://sky.scopuly.com/"
 whitepaper_url : "https://sky.scopuly.com/docs/wp_eng.pdf"
 twitter_url : "https://twitter.com/Scopuly_com"
