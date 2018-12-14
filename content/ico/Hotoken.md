@@ -25,7 +25,7 @@ long_description: "
 
 start_date: "2018-01-21T00:00:00Z"
 end_date : "2018-03-20T00:00:00Z"
-rating : 3
+rating : 2
 ticker : HTKN
 token_type : STELLAR
 token_price: "0.1000 USD"
@@ -59,7 +59,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/HOT/GB6DMQ5IZUPRRMNTPU
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 
+weight: 3
 
 ---
 

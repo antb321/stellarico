@@ -93,7 +93,7 @@ stellarport_url: ""
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 4
 
 ---
 

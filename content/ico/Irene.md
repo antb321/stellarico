@@ -71,7 +71,7 @@ stellarexpert_url: ""
 stellarx_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 3
 
 ---
 
