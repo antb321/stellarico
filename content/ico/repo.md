@@ -1,6 +1,6 @@
 ---
 title : Repo Coin
-date : ""
+date : "2018-09-01T00:00:00Z"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "payments"
@@ -17,9 +17,9 @@ long_description: "<h2>About Repo Coin</h2>
 </p>"
 money_goal : 1 000 000 USD
 goal : ""
-start_date: ""
-end_date :  ""
-rating : 3
+start_date: "2018-09-01T00:00:00Z"
+end_date :  "2018-09-01T00:00:00Z"
+rating : 1
 ticker : REPO
 token_type : STELLAR
 token_price: "1 REPO = 0 USD"
@@ -33,7 +33,7 @@ airdrop : NO
 airdrop_live : NO
 country: USA
 bounty : ""
-additional_links : [""]
+additional_links : ""
 screenshots : ["static/img/ico/repo/screenshots/1.png",
                 "static/img/ico/repo/screenshots/2.png",
                 "static/img/ico/repo/screenshots/3.png",
@@ -48,8 +48,8 @@ reddit_url: "https://www.reddit.com/user/repocoin/"
 facebook_url: "https://www.facebook.com/repocoin/"
 stellarexpert_url: ""
 stellarport_url: ""
-og_png: [""]
-tw_png: [""]
+og_png: ""
+tw_png: ""
 weight: 5
 
 ---

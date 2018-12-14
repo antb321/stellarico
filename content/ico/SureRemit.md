@@ -4,9 +4,9 @@ date : "2018-01-10T00:00:00Z"
 tags : ["ended","Payments"]
 categories : ["ended", "Payments"]
 ticket : "Payments"
-banner : "img/ico/sureremit/SureRemit-banner.png"
-logo : "img/ico/sureremit/SureRemit-logo.png"
-image : "/img/ico/sureremit/screenshots/1.png"
+banner : "img/ico/sureremit/RMT-background.jpg"
+logo : "img/ico/sureremit/RMT-LOGO.jpg"
+image : "/img/ico/sureremit/screenshots/1.jpg"
 description : "An ecosystem for global non-cash remittances"
 long_description: "
 <p>
@@ -36,17 +36,15 @@ available_for_token_sale: 1,000,000,000
 kyc: YES 
 accepted_currency :  XLM, ETH, BTC, LTC
 non_participate: 
-airdrop : NO
-airdrop_live : NO
 country: USA
 bounty : ""
 additional_links : ["https://icobench.com/ico/sureremit",
         "https://icobench.com/ico/lala-world",
         "https://www.icotokennews.com/icos/lalaworld/"]
-screenshots : [ "/img/ico/sureremit/screenshots/1.png",
-                "/img/ico/sureremit/screenshots/2.png",
-                "/img/ico/sureremit/screenshots/3.png",
-                "/img/ico/sureremit/screenshots/4.png",]
+screenshots : [ "/img/ico/sureremit/screenshots/1.jpg",
+                "/img/ico/sureremit/screenshots/2.jpg",
+                "/img/ico/sureremit/screenshots/3.jpg",
+                "/img/ico/sureremit/screenshots/4.jpg",]
 website : "https://sureremit.co"
 whitepaper_url : "https://token.sureremit.co/SureRemit-WhitePaper-v.1.21.pdf"
 twitter_url : "https://twitter.com/sureremit"

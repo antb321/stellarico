@@ -38,11 +38,11 @@ money_goal : "1,000,000"
 goal : "29,000,000 USD"
 start_date: "2018-07-30T00:00:00Z"
 end_date : "2018-09-20T00:00:00Z"
-rating : 3
+rating : 2
 ticker : GRAT
 token_type : STELLAR
 token_price: "0.0500 USD"
-funds_softcap_goal: 
+funds_softcap_goal: 0
 funds_hardcap_goal: 29,000,000 USD
 available_for_token_sale: 40%
 kyc: YES
