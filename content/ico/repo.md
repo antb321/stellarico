@@ -1,12 +1,12 @@
 ---
 title : Repo Coin
 date : "2018-09-01T00:00:00Z"
-tags : ["upcoming","Payments","airdrop"]
-categories : ["upcoming", "Payments","airdrop"]
-ticket : "payments"
-banner : "static/img/ico/repo/repo-banner.png"
-logo : "static/img/ico/repo/repo-logo.jpg"
-image : "static/img/ico/repo/repo-background.png"
+tags : ["ended","Finance"]
+categories : ["ended", "Finance"]
+ticket : "finance"
+banner : "img/ico/repo/repo-banner.png"
+logo : "img/ico/repo/repo-logo.jpg"
+image : "img/ico/repo/repo-background.png"
 description : "Worlds First Vehicle Repossessions Blockchain Platform"
 long_description: "<h2>About Repo Coin</h2>
 <p>Repo Coin is a revolutionary blockchain project focused on the auto lending and repossession industry.
@@ -29,16 +29,14 @@ available_for_token_sale:
 kyc: NO
 accepted_currency : XLM
 Non-participate:
-airdrop : NO
-airdrop_live : NO
 country: USA
 bounty : ""
 additional_links : ""
-screenshots : ["static/img/ico/repo/screenshots/1.png",
-                "static/img/ico/repo/screenshots/2.png",
-                "static/img/ico/repo/screenshots/3.png",
-                "static/img/ico/repo/screenshots/4.png",
-                "static/img/ico/repo/screenshots/5.png"]
+screenshots : ["img/ico/repo/screenshots/1.png",
+                "img/ico/repo/screenshots/2.png",
+                "img/ico/repo/screenshots/3.png",
+                "img/ico/repo/screenshots/4.png",
+                "img/ico/repo/screenshots/5.png"]
 website : "https://repocoin.io/"
 whitepaper_url : "https://repocoin.io/docs/Repo%20Coin-WhitePaper.pdf"
 twitter_url : "https://twitter.com/repo_coin"
