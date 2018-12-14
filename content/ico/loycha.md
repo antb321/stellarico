@@ -4,8 +4,8 @@ date : [""]
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
-banner : "img/ico/Loycha/loycha-banner.jpg"
-logo : "img/ico/Loycha/loycha-logo.jpg"
+banner : "img/ico/loycha/loycha-banner.jpg"
+logo : "img/ico/loycha/loycha-logo.jpg"
 image : ""
 description : "Coin that Pays You for Your Shopping"
 long_description: "Loycha will disrupt the marketing sector by removing the middleman (the main idea behind Bitcoin and Blockchain) and enabling the companies and their customers to interact directly in a win-win model.
@@ -33,11 +33,12 @@ Non-participate: ""
 country: Kosovo
 bounty : "https://loycha.com/bounty-program/"
 additional_links : ["http://twibee.com/loycha_official/"]
-screenshots : ["img/ico/Loycha/screenshots/1.jpg",
-                "img/ico/Loycha/screenshots/2.jpg",
-                "img/ico/Loycha/screenshots/3.jpg",
-                "img/ico/Loycha/screenshots/4.jpg",
-                "img/ico/Loycha/screenshots/5.jpg"]
+screenshots : ["img/ico/loycha/screenshots/1.jpg",
+                "img/ico/loycha/screenshots/2.jpg",
+                "img/ico/loycha/screenshots/3.jpg",
+                "img/ico/loycha/screenshots/4.jpg",
+                "img/ico/loycha/screenshots/5.jpg"]
+
 website : "https://loycha.com/"
 whitepaper_url : "https://loycha.com/whitepaper.pdf"
 twitter_url : "https://twitter.com/loycha_official"

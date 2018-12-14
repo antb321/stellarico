@@ -4,9 +4,9 @@ date : "2018-01-10T00:00:00Z"
 tags : ["ended","Payments"]
 categories : ["ended", "Payments"]
 ticket : "Payments"
-banner : "img/ico/SureRemit/SureRemit-banner.png"
-logo : "img/ico/SureRemit/SureRemit-logo.png"
-image : "/img/ico/SureRemit/screenshots/1.png"
+banner : "img/ico/sureremit/SureRemit-banner.png"
+logo : "img/ico/sureremit/SureRemit-logo.png"
+image : "/img/ico/sureremit/screenshots/1.png"
 description : "An ecosystem for global non-cash remittances"
 long_description: "
 <p>
@@ -43,10 +43,10 @@ bounty : ""
 additional_links : ["https://icobench.com/ico/sureremit",
         "https://icobench.com/ico/lala-world",
         "https://www.icotokennews.com/icos/lalaworld/"]
-screenshots : [ "/img/ico/SureRemit/screenshots/1.png",
-                "/img/ico/SureRemit/screenshots/2.png",
-                "/img/ico/SureRemit/screenshots/3.png",
-                "/img/ico/SureRemit/screenshots/4.png",]
+screenshots : [ "/img/ico/sureremit/screenshots/1.png",
+                "/img/ico/sureremit/screenshots/2.png",
+                "/img/ico/sureremit/screenshots/3.png",
+                "/img/ico/sureremit/screenshots/4.png",]
 website : "https://sureremit.co"
 whitepaper_url : "https://token.sureremit.co/SureRemit-WhitePaper-v.1.21.pdf"
 twitter_url : "https://twitter.com/sureremit"
