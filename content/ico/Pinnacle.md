@@ -81,7 +81,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/BRIL/GAMY6QEOIJL2AO3HU
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 4
 
 ---
 

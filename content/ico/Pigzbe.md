@@ -76,7 +76,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/WLO/GBIL5TOVTZFNV3XS3E
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/WLO-GBIL5TOVTZFNV3XS3E2LWTKU5SYOJ3UBCVBSKAMP4EE4MV2VSZQK7NRZ"
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 4
 
 ---
 

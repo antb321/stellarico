@@ -1,6 +1,6 @@
 ---
 title : Loycha
-date : [""]
+date : "2018-12-01T00:00:00Z"
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
@@ -16,11 +16,9 @@ long_description: "Loycha will disrupt the marketing sector by removing the midd
  <li>So, instead of paying middle-men like Google, Facebook and other companies that sell advertisements, companies will be able to compete and advertise on their own and dedicate the goods to their customers.
  </li>
 </p>"
-money_goal :
-goal :
 start_date: "2018-12-14T00:00:00Z"
 end_date: "2019-01-29T00:00:00Z"
-rating : 3
+rating : 2
 ticker : LOY
 token_type : STELLAR
 token_price: "1 LOY = 0.01 USD"
@@ -46,11 +44,11 @@ telegram_url : "https://t.me/loychaOfficial"
 github_url: ""
 reddit_url: ""
 facebook_url: "https://www.facebook.com/loycha.official/?_rdc=1&_rdr"
-stellarexpert_url: "https://stellar.expert/explorer/public/asset?search=loycha"
+stellarexpert_url: "https://stellar.expert/explorer/public/asset/LOY-GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
 stellarport_url: "https://stellarport.io/assets/alphanum4/LOY/GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
 og_png:
 tw_png:
-weight: 5
+weight: 3
 
 ---
 

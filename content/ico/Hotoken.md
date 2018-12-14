@@ -22,8 +22,7 @@ long_description: "
 	HotNow utilizes unique methods in the creation of its ecosystem with an emphasis on mechanics found in “freemium” video games and other game mechanics that increase shop conversion rates and enhance consumer engagement. Other innovations include individually-tailored loyalty programs for cash-base d businesses and tools that enable merchants to create organizations and solve coordination problems such as creating shared loyalty programs and aggregating purchasing power. In addition, deep analysis of the spending history data of consumers can create “credit profiles” for individuals without financi l history to enable these consumers to access micro-loans.
 </p>
 "
-money_goal : ""
-goal : "50,000,000 USD"
+
 start_date: "2018-01-21T00:00:00Z"
 end_date : "2018-03-20T00:00:00Z"
 rating : 3
@@ -60,7 +59,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/HOT/GB6DMQ5IZUPRRMNTPU
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 
 
 ---
 

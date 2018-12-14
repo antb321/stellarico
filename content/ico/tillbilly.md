@@ -49,7 +49,7 @@ stellarexpert_url: ""
 stellarport_url: ""
 og_png:
 tw_png:
-weight: 5
+weight: 4
 
 ---
 

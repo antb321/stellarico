@@ -42,8 +42,6 @@ available_for_token_sale: 7,678,180 (19.2%)
 kyc: YES 
 accepted_currency :  XLM
 non_participate: Canada, China, Singapore, United States of America
-airdrop : YES
-airdrop_live : NO
 country: Russia
 bounty : ""
 additional_links : ["https://icobench.com/ico/scopuly",
@@ -65,7 +63,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/SKY/GB2WB73G5IWRXEUTJA
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/SKY-GB2WB73G5IWRXEUTJANAIF52JFTDXOXORAP4S5HZRW23TZG2ONDVZMVA"
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 4
 
 ---
 

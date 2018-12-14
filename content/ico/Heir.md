@@ -51,7 +51,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/HEIR/GA6KR5DMGJ6OPPG4O
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/HEIR-GA6KR5DMGJ6OPPG4OONB65JPU3TZE2CWCLKTBV4DHXFA2Z4XKWQSVCTC"
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 2
 
 ---
 
