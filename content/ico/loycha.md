@@ -38,6 +38,7 @@ screenshots : ["img/ico/loycha/screenshots/1.jpg",
                 "img/ico/loycha/screenshots/3.jpg",
                 "img/ico/loycha/screenshots/4.jpg",
                 "img/ico/loycha/screenshots/5.jpg"]
+
 website : "https://loycha.com/"
 whitepaper_url : "https://loycha.com/whitepaper.pdf"
 twitter_url : "https://twitter.com/loycha_official"

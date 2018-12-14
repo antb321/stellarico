@@ -30,8 +30,8 @@ rating : 3
 ticker : PEDI
 token_type : STELLAR
 token_price: "1 PEDI = 0.0005 XLM"
-softcap_goal: 
-fundraising_goal: 
+funds_softcap_goal: 
+funds_hardcap_goal: 
 available_for_token_sale: 1,199,999,999
 kyc: YES
 accepted_currency :  ETH,XLM

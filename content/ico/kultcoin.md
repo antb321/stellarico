@@ -1,48 +1,67 @@
 ---
-title : KultCoin
-date : "2018-11-08T00:00:00Z"
-tags : ["upcoming","Art","airdrop"]
-categories : ["upcoming", "Art","airdrop"]
+title : Kult
+date : "2018-01-25T00:00:00Z"
+tags : ["live","Art"]
+categories : ["live", "Art"]
 ticket : "Art"
-banner : "img/ico/kultcoin/TempoCrypto-banner.jpg"
-logo : "img/ico/tempocrypto/TempoCrypto-logo.jpg"
-image : "#"
-description : "The easiest, fastest and most secure bridge between cash and crypto!"
-long_description: "The use of crypto currencies continues to accelerate. But exchanging crypto for fiat currencies remains difficult, limited and exposed to high volatility. Consequently, crypto currencies are still little used for purchasing goods and services. Tempo solves this. Tempo offers an easy way to get in and out of crypto, making the exchange faster, secure and available wherever you are. Which in turn, makes the the purchase of goods and services using cryptocurrencies easier. 
+banner : ""
+logo : "img/ico/kultcoin/kultcoin-logo.jpg"
+image : "img/ico/kultcoin/kultcoin-backgroud.jpg"
+description : "Culture CryptoCurrency"
+long_description: "<p>KultCoin is a cryptocurrency devised to optimize commercial exchanges in the cultural economy.</p>
 
-Tempo has already built a robust money remittance business, with a substantial and growing international network of correspondents and agents. In fact, Tempo currently has the largest payment network of any licensed crypto exchange in the world. Tempo also has the only exchange offering both a private and distributed exchange to ensure best pricing, along with the EURT, a stable coin backed by cash on hand."
-money_goal : "1,000,000"
-goal : "7,000,000 (13%)"
-start_date: "2018-11-08T00:00:00Z"
-end_date : "2018-11-18T00:00:00Z"
+<p>Kults enable you to purchase works of art, digital content, VOD films, music streaming, books, movie or theater tickets…</p>
+
+<p>KultCoin is the crypto cultural bank of the future: venture capital to support creative and cultural development.</p>
+
+<p>Kult-Coin restores decision-making power to creators. It enables them to reclaim their role as vital protagonists in the cultural economy.</p>
+
+<h2>Artistes’ Services</h2>
+<p>The kultcoin.org platform provides kult members, artists, creators, craftspeople, cultural agents with an account, payment methods, credit cards such as Visa or MasterCard and the option of trading with crypto currencies.
+</p>
+<h2>Kult Time</h2>
+<p>Kult is the currency of creative value, but also of creative time. At the outset, a kult represents an hour of artistic work. The goal is to enhance the creative time of all artists. Because all creators are equal to the kult whatever the value or public recognition of the work created during « kult time ».
+</p>
+<h2>Crowdfunding</h2>
+<p>For any kult purchased, a kult will be made available free of charge to artists and cultural representatives. Any investor in the kult project will therefore be a sponsor because by buying a Kult, he or she finances the share that goes to the artists and cultural agents.
+</p>
+<h2>Blockchain Services</h2>
+<p>Kult offers cultural industries transparent and simplified access to the blockchain. It will also provide smart contracts drawn up to certify the authenticity of works of art, ensure copyright distribution, establish contracts for movie co-productions, music rights, etc.
+</p>
+<p>The Kult Coin team is made up of artists, cultural strategists, communicators, developers, creators from a wide variety of backgrounds and experiences, all of whom possess thorough knowledge of cultural sectors and know how to address current issues and needs.</p>"
+money_goal : 
+goal : 
+start_date: "2018-12-10T00:00:00Z"
+end_date : "2019-12-10T00:00:00Z"
 rating : 3
-ticker : TEMPO
+ticker : Kult
 token_type : STELLAR
-token_price: "1 TEMPO = 0.1200 EUR"
-softcap_goal: 1,500,000 EUR
-fundraising_goal: 7,000,000 EUR
-available_for_token_sale: 20%
-kyc: YES (1 JAN - AUG – 7 SEP)
-accepted_currency :  BTC, ETH, XRP, XLM, EURT, EUR, JPY
-non_participate: NORTH KOREA, CUBA, Syria, Crimea/Sevastopol, USA (limited)
-airdrop : YES
-airdrop_live : NO
-country: FR
-bounty : "https://ico.tempo.eu.com/bounty"
-additional_links : ["https://sharespost.com/",
-        "https://glassnet.io/downloads/GLASS_Executive_Summary.pdf",
-        "https://glassnet.io/blog/"]
-screenshots : [ "/img/ico/blockcloud/screenshots/1.jpg",
-                "/img/ico/blockcloud/screenshots/4.jpg",]
-website : "https://ico.tempo.eu.com"
-whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
-twitter_url : "https://twitter.com/tempo_eu"
-telegram_url : "https://t.me/joinchat/Cl6wihECcZFcv2tJcFEY5Q"
-github_url: ""
-reddit_url: ""
-facebook_url: ""
-og_png: "img/ico/blockcloud/Blockcloud-Main.jpg"
-tw_png: "img/ico/blockcloud/Blockcloud-Main.jpg"
+token_price: 
+funds_softcap_goal:  
+funds_hardcap_goal:  
+available_for_token_sale:
+kyc:  
+accepted_currency :  
+non_participate:  
+airdrop :
+airdrop_live :
+country: FRANCE
+bounty : ""
+additional_links : [""]
+screenshots :  ["img/ico/kultcoin/screenshots/Screenshot (43).jpg",
+                "img/ico/kultcoin/screenshots/screenshot (43).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (44).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (45).jpg",
+                "img/ico/kultcoin/screenshots/Screenshot (46).jpg"]
+website : "https://kultcoin.org/"
+whitepaper_url : "https://kultcoin.org/whitepaper/"
+twitter_url : "https://twitter.com/KultCoin"
+telegram_url : "https://t.me/kultcoin"
+github_url: "https://github.com/Kultcoin"
+reddit_url: 
+facebook_url:
+og_png: 
+tw_png: 
 weight: 5
 
 ---
