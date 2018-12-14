@@ -18,8 +18,8 @@ long_description: "<p>
 </p>"
 money_goal : "1,000,000"
 goal : "7,000,000 (13%)"
-start_date: "2018-11-08T00:00:00Z"
-end_date : "2018-11-18T00:00:00Z"
+start_date: "2018-12-30T00:00:00Z"
+end_date : "2019-03-18T00:00:00Z"
 rating : 3
 ticker : TEMPO
 token_type : STELLAR

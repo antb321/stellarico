@@ -58,7 +58,7 @@ goal : "38,000,000 EUR"
 start_date: "2018-08-08T00:00:00Z"
 end_date : "2018-09-08T00:00:00Z"
 rating : 3
-ticker : InToken
+ticker : In
 token_type : STELLAR
 token_price: "0.0116 USD"
 funds_softcap_goal: 3,000,000 EUR
@@ -77,13 +77,16 @@ screenshots : [ "/img/ico/InToken/screenshots/1.png",
                 "/img/ico/InToken/screenshots/2.png",
                 "/img/ico/InToken/screenshots/3.png",
                 "/img/ico/InToken/screenshots/4.png",]
-website : "https://inbot.io/intoken/"
+website : "https://inbot.io/"
 whitepaper_url : "https://docs.google.com/document/d/12siRqjuHIHelPS-NaVVZxnq4AJ1hGlDXoGo6DeVw51U/edit"
 twitter_url : "https://twitter.com/inbot_int"
 telegram_url : "https://t.me/intoken"
 github_url: "https://github.com/Inbot/intoken-dapp"
 reddit_url: "https://www.reddit.com/r/ico/comments/810n4m/inbot_airdrop_and_presale_is_on_click_on_wallet/"
 facebook_url: "https://www.facebook.com/inbotambassador/"
+stellarx_url : "https://www.stellarx.com/markets/IN:GACVHHIZVSNTE6TVHPUZ2QG5PNLVLFAHFUAD5ZUWZYX2BQEVGBDWJIYA"
+stellarexpert_url : "https://stellar.expert/explorer/public/asset/IN-GACVHHIZVSNTE6TVHPUZ2QG5PNLVLFAHFUAD5ZUWZYX2BQEVGBDWJIYA"
+stellarport_url : "https://stellarport.io/assets/alphanum4/IN/GACVHHIZVSNTE6TVHPUZ2QG5PNLVLFAHFUAD5ZUWZYX2BQEVGBDWJIYA"
 youtube_url: ""
 linkedin_url: ""
 stellarport_url: ""

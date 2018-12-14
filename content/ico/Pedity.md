@@ -55,9 +55,10 @@ youtube_url: ""
 linkedin_url: ""
 stellarport_url: "https://stellarport.io/assets/alphanum4/PEDI/GBVUDZLMHTLMZANLZB6P4S4RYF52MVWTYVYXTQ2EJBPBX4DZI2SDOLLY"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/PEDI-GBVUDZLMHTLMZANLZB6P4S4RYF52MVWTYVYXTQ2EJBPBX4DZI2SDOLLY"
+stellarx_url : "https://www.stellarx.com/markets/PEDI:GBVUDZLMHTLMZANLZB6P4S4RYF52MVWTYVYXTQ2EJBPBX4DZI2SDOLLY"
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 4
 
 ---
 

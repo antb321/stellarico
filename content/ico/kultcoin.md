@@ -29,19 +29,17 @@ long_description: "<p>KultCoin is a cryptocurrency devised to optimize commercia
 <p>Kult offers cultural industries transparent and simplified access to the blockchain. It will also provide smart contracts drawn up to certify the authenticity of works of art, ensure copyright distribution, establish contracts for movie co-productions, music rights, etc.
 </p>
 <p>The Kult Coin team is made up of artists, cultural strategists, communicators, developers, creators from a wide variety of backgrounds and experiences, all of whom possess thorough knowledge of cultural sectors and know how to address current issues and needs.</p>"
-money_goal : 
-goal : 
 start_date: "2018-12-10T00:00:00Z"
 end_date : "2019-12-10T00:00:00Z"
-rating : 3
+rating : 2
 ticker : Kult
 token_type : STELLAR
 token_price: 
 funds_softcap_goal:  
 funds_hardcap_goal:  
 available_for_token_sale:
-kyc:  
-accepted_currency :  
+kyc:  NO
+accepted_currency : BTC, ETH, EUR 
 non_participate:  
 airdrop :
 airdrop_live :
@@ -62,7 +60,7 @@ reddit_url:
 facebook_url:
 og_png: 
 tw_png: 
-weight: 5
+weight: 1
 
 ---
 

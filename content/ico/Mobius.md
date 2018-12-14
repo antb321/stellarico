@@ -54,8 +54,6 @@ Mobius closes the gap between the internet world and blockchain world through in
 		</p>
 	</li>
 </ul>"
-money_goal : "1,000,000"
-goal : "39,000,000 USD"
 start_date: "2017-11-22T00:00:00Z"
 end_date : "2018-01-18T00:00:00Z"
 rating : 3

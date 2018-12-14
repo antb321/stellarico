@@ -1,9 +1,9 @@
 ---
 title : SureRemit
 date : "2018-01-10T00:00:00Z"
-tags : ["ended","Payments"]
-categories : ["ended", "Payments"]
-ticket : "Payments"
+tags : ["ended","Remittance"]
+categories : ["ended", "Remittance"]
+ticket : "Remittance"
 banner : "img/ico/sureremit/RMT-background.jpg"
 logo : "img/ico/sureremit/RMT-LOGO.jpg"
 image : "/img/ico/sureremit/screenshots/1.jpg"
@@ -22,8 +22,6 @@ long_description: "
 <p>
 	Within the SureRemit ecosystem, the Remit token (RMT) will be used internally to access vouchers and pay bills for targeted remittances. Immigrants and customers in general will be able to select the country they want to send value, search for the right merchant in a category and create an order for a voucher to be delivered to the recipient via SMS or Email, and pay in RMT token. Once the order is received, the token will be frozen until the voucher is sent from the SureRemit system. When that happens, the token is transferred to SureRemit. In the future, we hope to activate the direct acceptance of RMT tokens by the ecosystem partners, which they can in turn convert to Fiat, this will make token transfer happen directly to merchant’s balance.
 </p>"
-money_goal : ""
-goal : "10,000,000 USD"
 start_date: "2018-01-10T00:00:00Z"
 end_date : "2018-02-10T00:00:00Z"
 rating : 3
@@ -38,9 +36,7 @@ accepted_currency :  XLM, ETH, BTC, LTC
 non_participate: 
 country: USA
 bounty : ""
-additional_links : ["https://icobench.com/ico/sureremit",
-        "https://icobench.com/ico/lala-world",
-        "https://www.icotokennews.com/icos/lalaworld/"]
+additional_links : ["https://icobench.com/ico/sureremit"]
 screenshots : [ "/img/ico/sureremit/screenshots/1.jpg",
                 "/img/ico/sureremit/screenshots/2.jpg",
                 "/img/ico/sureremit/screenshots/3.jpg",
@@ -56,6 +52,7 @@ youtube_url: ""
 linkedin_url: ""
 stellarport_url: "https://stellarport.io/assets/alphanum4/RMT/GDEGOXPCHXWFYY234D2YZSPEJ24BX42ESJNVHY5H7TWWQSYRN5ZKZE3N"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/SureRemit-GBVAHIEVCRRYUDBXECTE5N5VTMSXNOVPCIGFJKAVCH6WB6NYN2ONHXP2"
+stellarx_url: ""
 og_png: ""
 tw_png: ""
 weight: 5

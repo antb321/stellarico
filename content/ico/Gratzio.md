@@ -1,8 +1,8 @@
 ---
 title : Gratzio
 date : "2018-07-30T00:00:00Z"
-tags : ["ended","Payments","airdrop"]
-categories : ["ended", "Payments","airdrop"]
+tags : ["ended","dAPP","airdrop"]
+categories : ["ended", "dAPP","airdrop"]
 ticket : "Payments"
 banner : "img/ico/Gratzio/Gratzio-banner.png"
 logo : "img/ico/Gratzio/Gratzio-logo.png"
@@ -49,7 +49,7 @@ kyc: YES
 accepted_currency :  BTC, ETH, XLM
 non_participate: USA
 airdrop : YES
-airdrop_live : NO
+airdrop_live : YES
 country: UK
 bounty : ""
 additional_links : ["https://icobench.com/ico/gratzio",
@@ -70,6 +70,7 @@ youtube_url: ""
 linkedin_url: ""
 stellarport_url: "https://stellarport.io/assets/alphanum4/GRAT/GAJ7V3EMD3FRWAPBEJAP7EC4223XI5EACDZ46RFMY5DYOMCIMWEFR5II"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/GRAT-GAJ7V3EMD3FRWAPBEJAP7EC4223XI5EACDZ46RFMY5DYOMCIMWEFR5II"
+stellarx_url : "https://www.stellarx.com/markets/GRAT:GAJ7V3EMD3FRWAPBEJAP7EC4223XI5EACDZ46RFMY5DYOMCIMWEFR5II"
 og_png: ""
 tw_png: ""
 weight: 5

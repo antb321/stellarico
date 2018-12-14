@@ -1,9 +1,9 @@
 ---
 title : ZED
 date : "2018-09-30T00:00:00Z"
-tags : ["active","Network","airdrop"]
-categories : ["active", "Network","airdrop"]
-ticket : "Network"
+tags : ["active","Remittance","airdrop"]
+categories : ["active", "Remittance","airdrop"]
+ticket : "Remittance"
 banner : "img/ico/ZED/ZED-banner.png"
 logo : "img/ico/ZED/ZED-logo.png"
 image : "/img/ico/ZED/screenshots/1.png"
@@ -61,21 +61,18 @@ long_description: "
 		</li>
 	</ul>
 </p>"
-money_goal : ""
-goal : ""
+
 start_date: "2018-09-30T00:00:00Z"
-end_date : "2018-12-30T00:00:00Z"
+end_date : "2019-12-30T00:00:00Z"
 rating : 3
 ticker : ZED
 token_type : STELLAR
 token_price: "0.0000 USD"
-softcap_goal: 
-fundraising_goal: 
 available_for_token_sale: 80,000,000,000 (21%)
 kyc: NO 
 accepted_currency :  
 non_participate: 
-airdrop : YES
+airdrop : No
 airdrop_live : NO
 country: Canada
 bounty : ""
@@ -93,10 +90,8 @@ telegram_url : "https://t.me/zednetworkinc"
 github_url: "https://github.com/zednetwork"
 reddit_url: "https://www.reddit.com/r/zednetwork"
 facebook_url: "https://www.facebook.com/zednetworkinc"
-youtube_url: ""
+youtube_url: "https://www.youtube.com/watch?v=kMnYZyCUU4s&feature=youtu.be"
 linkedin_url: ""
-stellarport_url: ""
-stellarexpert_url: ""
 og_png: ""
 tw_png: ""
 weight: 5

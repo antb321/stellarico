@@ -22,13 +22,14 @@ money_goal : ""
 goal : ""
 start_date: "2018-02-15T00:00:00Z"
 end_date : "2018-04-15T00:00:00Z"
-rating : 3
+rating : 2
 ticker : FRAS
 token_type : STELLAR
 token_price: "0.1400 USD"
-softcap_goal: 
-fundraising_goal: 
 available_for_token_sale: 100,000,000 FRAS
+funds_softcap_goal: 
+funds_hardcap_goal: 
+funds_raise_todate : 158,000 USD
 kyc: NO 
 accepted_currency :  BTC, ETH
 non_participate: 
@@ -56,7 +57,7 @@ stellarport_url: "https://stellarport.io/assets/alphanum4/FRAS/GC75WHUIMU7LV6WUR
 stellarexpert_url: ""
 og_png: ""
 tw_png: ""
-weight: 5
+weight: 2
 
 ---
 

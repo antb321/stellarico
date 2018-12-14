@@ -1,9 +1,9 @@
 ---
 title : Smartlands
 date : "2017-11-02T00:00:00Z"
-tags : ["ended","Payments"]
-categories : ["ended", "Payments"]
-ticket : "Payments"
+tags : ["ended","Finance"]
+categories : ["ended", "Finance"]
+ticket : "Finance"
 banner : "img/ico/Smartlands/Smartlands-banner.png"
 logo : "img/ico/Smartlands/Smartlands-logo.png"
 image : "/img/ico/Smartlands/screenshots/1.png"
@@ -23,22 +23,18 @@ long_description: "The platform will eliminate the barriers for investors from a
   <li>Cooperation with state bodies responsible for regulating the securities market to explain the benefits of asset tokenization and distributed control offered by blockchain technology. Advocating the idea of minimizing the regulation of such a market by the relevant central authorities for ABTs issued with enhanced monitoring and democratic organization capabilities.</li>
 </ul>
 "
-money_goal : "1,000,000"
-goal : "25,000,000 USD"
 start_date: "2017-11-02T00:00:00Z"
 end_date : "2017-11-20T00:00:00Z"
 rating : 3
-ticker : SLT Token
+ticker : SLT
 token_type : STELLAR
-token_price: "0.5000 USD"
-funds_softcap_goal: 
+token_price: "0.08000 USD"
+funds_softcap_goal: 0
 funds_hardcap_goal: 25,000,000 USD
 available_for_token_sale: 50,000,000
 kyc: YES
 accepted_currency : ETH, BTC, XML
 non_participate: 
-airdrop : NO
-airdrop_live : NO
 country: Cyprus
 bounty : ""
 additional_links : ["https://coindar.org/en/coin/smartlands",
@@ -54,6 +50,9 @@ telegram_url : "https://t.me/smartlandschat"
 github_url: "https://github.com/Smartlands-Platform/SLT"
 reddit_url: ""
 facebook_url: "https://www.facebook.com/SmartlandsPlatform/"
+stellarx_url : "https://www.stellarx.com/markets/SLT:GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
+stellarport_url : "https://stellar.expert/explorer/public/asset/SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
+stellarexpert_url : "https://stellar.expert/explorer/public/asset/SLT-GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP"
 og_png: ""
 tw_png: ""
 weight: 5

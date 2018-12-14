@@ -14,8 +14,7 @@ long_description: "<p>
 <li> Provides a seamless way of funding wallets within app, and making payments through our proprietary tap-and-go (NFC) payment terminals. Complexities of blockchain and cryptocurrencies are hidden from shoppers and merchants.
 </li>
 </p>"
-money_goal :
-goal :
+
 start_date: "2018-11-16T00:00:00Z"
 end_date: "2018-12-15T00:00:00Z"
 rating : 3

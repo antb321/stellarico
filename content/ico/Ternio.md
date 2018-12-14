@@ -62,6 +62,7 @@ youtube_url: ""
 linkedin_url: ""
 stellarport_url: "https://stellarport.io/assets/alphanum4/TERN/GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/TERN-GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C"
+stellarx_url : "https://www.stellarx.com/markets/TERN:GDGQDVO6XPFSY4NMX75A7AOVYCF5JYGW2SHCJJNWCQWIDGOZB53DGP6C"
 og_png: ""
 tw_png: ""
 weight: 5

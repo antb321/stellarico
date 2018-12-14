@@ -1,8 +1,8 @@
 ---
 title : BloomX
 date : "2018-06-01T00:00:00Z"
-tags : ["active","Payments"]
-categories : ["active", "Payments"]
+tags : ["active","Remittance"]
+categories : ["active", "Remittance"]
 ticket : "Payments"
 banner : "img/ico/BloomX/BloomX-banner.png"
 logo : "img/ico/BloomX/BloomX-logo.png"
@@ -70,8 +70,6 @@ available_for_token_sale: 3,888,888,888 BX8 (49%)
 kyc: YES
 accepted_currency :  ETH, BTC, XLM
 non_participate: China, United States of America
-airdrop : NO
-airdrop_live : NO
 country: Singapore
 bounty : ""
 additional_links : ["https://www.trackico.io/ico/bloomx/#financial",
@@ -81,7 +79,7 @@ screenshots : [ "/img/ico/BloomX/screenshots/1.png",
                 "/img/ico/BloomX/screenshots/2.png",
                 "/img/ico/BloomX/screenshots/3.png",
                 "/img/ico/BloomX/screenshots/4.png",]
-website : "https://bx8.io/?utm_source=trackico"
+website : "https://bx8.io/?utm_source=stellarico"
 whitepaper_url : "https://bx8.io/downloadables/whitepaper.pdf?locale=en"
 twitter_url : "https://twitter.com/bloomxorg"
 telegram_url : "https://t.me/joinBX8"
