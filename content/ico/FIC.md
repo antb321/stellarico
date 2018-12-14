@@ -4,9 +4,9 @@ date : "2018-03-15T00:00:00Z"
 tags : ["active","Network","airdrop"]
 categories : ["active", "Network","airdrop"]
 ticket : "Network"
-banner : "img/ico/FIC/FIC-banner.png"
-logo : "img/ico/FIC/FIC-logo.png"
-image : "/img/ico/FIC/screenshots/1.png"
+banner : "img/ico/fic/FIC-banner.png"
+logo : "img/ico/fic/FIC-logo.png"
+image : "/img/ico/fic/screenshots/1.png"
 description : "Bonds on Blockchain"
 long_description: "
 <p>
@@ -40,10 +40,10 @@ bounty : ""
 additional_links : ["https://icodrops.com/fic-network/",
         "https://icobench.com/ico/fic-network",
         "https://www.trackico.io/ico/fic-network/"]
-screenshots : [ "/img/ico/FIC/screenshots/1.png",
-                "/img/ico/FIC/screenshots/2.png",
-                "/img/ico/FIC/screenshots/3.png",
-                "/img/ico/FIC/screenshots/4.png",]
+screenshots : [ "/img/ico/fic/screenshots/1.png",
+                "/img/ico/fic/screenshots/2.png",
+                "/img/ico/fic/screenshots/3.png",
+                "/img/ico/fic/screenshots/4.png",]
 website : "https://ficnetwork.com"
 whitepaper_url : "https://s3.amazonaws.com/factury-public-files/FIC+Whitepaper.pdf"
 twitter_url : "https://twitter.com/ficnetwork"
