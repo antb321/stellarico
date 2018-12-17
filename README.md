@@ -174,6 +174,9 @@ Clone :
     - go to stellar.expert and add the url to the asset 
     - type the ticker into the search box
     - url required if ended and Stellar ICO
+  - coinmarketcap_url : ""
+    - if asset has coinmarketcap listing add here
+    - should be URL
    #images that will appear for twitter and facebook
  - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
  - tw_png: "img/ico/tempocrypto/Tempo-Main.jpg"
