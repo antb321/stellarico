@@ -16,7 +16,7 @@ long_description: "<p>
  <li>Tempo has already built a robust money remittance business, with a substantial and growing international network of correspondents and agents. In fact, Tempo currently has the largest payment network of any licensed crypto exchange in the world.</li> 
  <li>Tempo also has the only exchange offering both a private and distributed exchange to ensure best pricing, along with the EURT, a stable coin backed by cash on hand.</li>
 </p>"
-money_goal : "1,000,000"
+funds_raise_todate
 goal : "7,000,000 (13%)"
 start_date: "2018-12-30T00:00:00Z"
 end_date : "2019-03-18T00:00:00Z"

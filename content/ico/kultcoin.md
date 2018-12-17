@@ -1,8 +1,8 @@
 ---
 title : Kult
 date : "2018-01-25T00:00:00Z"
-tags : ["live","Art"]
-categories : ["live", "Art"]
+tags : ["active","Art"]
+categories : ["active", "Art"]
 ticket : "Art"
 banner : ""
 logo : "img/ico/kultcoin/kultcoin-logo.jpg"
@@ -56,6 +56,9 @@ whitepaper_url : "https://kultcoin.org/whitepaper/"
 twitter_url : "https://twitter.com/KultCoin"
 telegram_url : "https://t.me/kultcoin"
 github_url: "https://github.com/Kultcoin"
+stellarport_url: "https://stellarport.io/assets/alphanum4/KULT/GAFM4W6SHP47PD63LVIK47B5NZMTS4XAPTBGCNA3XAER3VNWGI5FSVUT"
+stellarexpert_url: "https://stellar.expert/explorer/public/asset/KULT-GAFM4W6SHP47PD63LVIK47B5NZMTS4XAPTBGCNA3XAER3VNWGI5FSVUT"
+stellarx_url : ""
 reddit_url: 
 facebook_url:
 og_png: 
