@@ -1,6 +1,6 @@
 ---
 title : Mobius
-date : "2017-11-22T00:00:00Z"
+date : 2017-11-22 00:00:00
 tags : ["ended","Network","airdrop"]
 categories : ["ended", "Network","airdrop"]
 ticket : "Network"
@@ -54,20 +54,22 @@ Mobius closes the gap between the internet world and blockchain world through in
 		</p>
 	</li>
 </ul>"
-start_date: "2017-11-22T00:00:00Z"
-end_date : "2018-01-18T00:00:00Z"
+start_date: 2017-11-22 00:00:00
+end_date : 2018-01-18 00:00:00
 rating : 3
 ticker : MOBI
 token_type : STELLAR
 token_price: "0.1600 USD"
-funds_softcap_goal: 20,000,000 USD
-funds_hardcap_goal: 39,000,000 USD
+funds_softcap_goal: 20000000
+funds_raise_todate: 39000000
+funds_hardcap_goal: 39000000
 available_for_token_sale: 30%
 kyc: YES
 accepted_currency :  BTC, ETH, XLM
 non_participate: 
 country: Cayman
 bounty : "https://coinwoot.com/airdrop/mobius"
+airdrop: ""
 additional_links : ["https://icobench.com/ico/mobius-network",
         "https://tokenmarket.net/blockchain/ethereum/assets/Mobius/",
         "https://icoengine.net/ico/Mobius"]

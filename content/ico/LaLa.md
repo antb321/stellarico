@@ -1,6 +1,6 @@
 ---
 title : LaLa World
-date : "2018-01-05T00:00:00Z"
+date : 2018-01-05 00:00:00
 tags : ["ended","Finance","airdrop"]
 categories : ["ended", "Finance","airdrop"]
 ticket : "Finance"
@@ -32,14 +32,18 @@ long_description: "
 </p>
 "
 goal : "15000 ETH"
-start_date: "2018-01-05T00:00:00Z"
-end_date : "2018-02-05T00:00:00Z"
+start_date: 2018-01-05 00:00:00
+end_date : 2018-02-05 00:00:00
 rating : 2
 ticker : LALA
 token_type : STELLAR
 token_price: "0.1300 USD"
 softcap_goal: 
 fundraising_goal: 19,000,000 USD
+funds_softcap_goal: 0
+funds_raise_todate: 0
+funds_hardcap_goal: 19000000
+
 available_for_token_sale: 250,000,000 (60%)
 kyc: YES 
 accepted_currency :  ETH, BTC, Fiat

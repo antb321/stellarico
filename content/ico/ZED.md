@@ -1,6 +1,6 @@
 ---
 title : ZED
-date : "2018-09-30T00:00:00Z"
+date : 2018-09-30 00:00:00
 tags : ["active","Remittance","airdrop"]
 categories : ["active", "Remittance","airdrop"]
 ticket : "Remittance"
@@ -62,20 +62,22 @@ long_description: "
 	</ul>
 </p>"
 
-start_date: "2018-09-30T00:00:00Z"
-end_date : "2019-12-30T00:00:00Z"
+start_date: 2018-09-30 00:00:00
+end_date : 2019-12-30 00:00:00
 rating : 3
 ticker : ZED
 token_type : STELLAR
 token_price: "0.0000 USD"
 available_for_token_sale: 80,000,000,000 (21%)
 kyc: NO 
-accepted_currency :  
+accepted_currency : "XLM" 
 non_participate: 
 airdrop : No
-airdrop_live : NO
 country: Canada
 bounty : ""
+funds_softcap_goal: 0
+funds_raise_todate: 0
+funds_hardcap_goal: 0
 additional_links : ["https://icobench.com/ico/zed",
         "https://icoholder.com/en/zed-network-inc-16219",
 		"https://www.icomarks.com/ico/zed"]

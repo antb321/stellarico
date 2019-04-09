@@ -1,6 +1,6 @@
 ---
 title : Tempo Crypto
-date : "2018-11-08T00:00:00Z"
+date : 2018-11-08 00:00:00
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
@@ -16,16 +16,17 @@ long_description: "<p>
  <li>Tempo has already built a robust money remittance business, with a substantial and growing international network of correspondents and agents. In fact, Tempo currently has the largest payment network of any licensed crypto exchange in the world.</li> 
  <li>Tempo also has the only exchange offering both a private and distributed exchange to ensure best pricing, along with the EURT, a stable coin backed by cash on hand.</li>
 </p>"
-funds_raise_todate
-goal : "7,000,000 (13%)"
-start_date: "2018-12-30T00:00:00Z"
-end_date : "2019-03-18T00:00:00Z"
+funds_raise_todate: 800000
+goal : "7,000,000 (13%) EUR"
+start_date: 2018-12-30 00:00:00
+end_date : 2019-03-18 00:00:00
 rating : 3
 ticker : TEMPO
 token_type : STELLAR
 token_price: "1 TEMPO = 0.1200 EUR"
-funds_softcap_goal: 1,500,000 EUR
-funds_hardcap_goal: 7,000,000 EUR
+funds_softcap_goal: 200000
+funds_hardcap_goal: 7000000
+funds_currency: EUR
 available_for_token_sale: 20%
 kyc: YES (1 JAN - AUG – 7 SEP)
 accepted_currency :  BTC, ETH, XRP, XLM, EURT, EUR, JPY

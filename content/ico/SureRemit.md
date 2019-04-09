@@ -1,6 +1,6 @@
 ---
 title : SureRemit
-date : "2018-01-10T00:00:00Z"
+date : 2018-01-10 00:00:00
 tags : ["ended","Remittance"]
 categories : ["ended", "Remittance"]
 ticket : "Remittance"
@@ -22,14 +22,14 @@ long_description: "
 <p>
 	Within the SureRemit ecosystem, the Remit token (RMT) will be used internally to access vouchers and pay bills for targeted remittances. Immigrants and customers in general will be able to select the country they want to send value, search for the right merchant in a category and create an order for a voucher to be delivered to the recipient via SMS or Email, and pay in RMT token. Once the order is received, the token will be frozen until the voucher is sent from the SureRemit system. When that happens, the token is transferred to SureRemit. In the future, we hope to activate the direct acceptance of RMT tokens by the ecosystem partners, which they can in turn convert to Fiat, this will make token transfer happen directly to merchant’s balance.
 </p>"
-start_date: "2018-01-10T00:00:00Z"
-end_date : "2018-02-10T00:00:00Z"
+start_date: 2018-01-10 00:00:00
+end_date : 2018-02-10 00:00:00
 rating : 3
 ticker : RMT
 token_type : STELLAR
 token_price: "0.0200 USD"
 softcap_goal: 
-fundraising_goal: 10,000,000 USD
+fundraising_goal: 10000000
 available_for_token_sale: 1,000,000,000
 kyc: YES 
 accepted_currency :  XLM, ETH, BTC, LTC
@@ -56,6 +56,11 @@ stellarx_url: ""
 og_png: ""
 tw_png: ""
 weight: 5
+funds_softcap_goal: 1000000
+funds_raise_todate: 7000000
+funds_hardcap_goal: 10000000
+airdrop: Required field missing
+
 
 ---
 

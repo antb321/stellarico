@@ -1,6 +1,8 @@
 ---
 title : Pigzbe
-date : "2018-09-05T00:00:00Z"
+date : 2018-09-05 00:00:00
+start_date: 2018-06-05 00:00:00
+end_date : 2018-10-31 00:00:00
 tags : ["ended","Payments","airdrop"]
 categories : ["ended", "Payments","airdrop"]
 ticket : "Payments"
@@ -40,15 +42,14 @@ long_description: "
 </p>"
 money_goal : "1,000,000"
 goal : "8,850,000 USD"
-start_date: "2018-06-05T00:00:00Z"
-end_date : "2018-10-31T00:00:00Z"
 rating : 3
 ticker : WLO
 token_type : STELLAR
 token_price: "0.1200 USD"
-funds_softcap_goal: 2,850,000 USD
-funds_hardcap_goal: 8,850,000 USD
-available_for_token_sale: 
+funds_softcap_goal: 2850000
+funds_hardcap_goal: 8850000
+funds_raise_todate: 0
+available_for_token_sale: "0"
 kyc: YES
 accepted_currency :  ETH
 non_participate: 

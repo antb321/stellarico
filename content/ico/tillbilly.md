@@ -1,6 +1,6 @@
 ---
 title : TillyBilly
-date : "2018-09-01T00:00:00Z"
+date : 2018-09-01 00:00:00
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Payments"
@@ -15,16 +15,17 @@ long_description: "<p>
 </li>
 </p>"
 
-start_date: "2018-11-16T00:00:00Z"
-end_date: "2018-12-15T00:00:00Z"
+start_date: 2018-11-16 00:00:00
+end_date: 2018-12-15 00:00:00
 rating : 3
 ticker : BILL
 token_type : STELLAR
 token_price: "1 BILL = 1 XLM "
-funds_softcap_goal: 11500000 XLM
+funds_softcap_goal: 11500000
 Hard cap : 115500000 XLM
-funds_hardcap_goal:
-available_for_token_sale:
+funds_hardcap_goal: 115500000
+funds_raise_todate: 0
+available_for_token_sale: ""
 kyc: NO
 accepted_currency : XLM
 Non-participate: USA,CHINA
@@ -40,15 +41,15 @@ screenshots : ["img/ico/tillbilly/screenshots/Screenshot (9).jpg",
                 "img/ico/tillbilly/screenshots/Screenshot (31).jpg"]
 website : "https://tillbilly.com/"
 whitepaper_url : "https://icorating.com/upload/whitepaper/9UmNXMKcchq6TfxoZdTQWKcMPkrnttfWkKCAQriL.pdf"
-twitter_url : "https://twitter.com/@tillbillyapp "
+twitter_url : "https://twitter.com/tillbillyapp"
 telegram_url : "https://t.me/tillbilly"
 github_url: "https://github.com/TillBillyDev"
 reddit_url: "https://www.reddit.com/r/TillBilly/"
 facebook_url: "https://www.facebook.com/tillbillyapp/"
 stellarexpert_url: ""
 stellarport_url: ""
-og_png:
-tw_png:
+og_png: ""
+tw_png: ""
 weight: 4
 
 ---

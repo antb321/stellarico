@@ -1,6 +1,6 @@
 ---
 title : BloomX
-date : "2018-06-01T00:00:00Z"
+date : 2018-06-01 00:00:00
 tags : ["active","Remittance"]
 categories : ["active", "Remittance"]
 ticket : "Payments"
@@ -58,20 +58,23 @@ The BloomX platform will launch with these three apps in Q4 2018. In Q3 2019, th
 </p>"
 money_goal : ""
 goal : "19,000,000 USD"
-start_date: "2018-06-01T00:00:00Z"
-end_date : "2019-05-31T00:00:00Z"
+start_date: 2018-06-01 00:00:00
+end_date : 2019-05-31 00:00:00
 rating : 3
 ticker : BX8
 token_type : STELLAR
 token_price: "0.0118 USD"
-funds_softcap_goal: 8,000,000 USD
-funds_hardcap_goal: 19,000,000 USD
+funds_softcap_goal: 8000000
+funds_raise_todate: 8000000
+funds_hardcap_goal: 19000000
+#funds_hardcap_goal: 19000000 USD
 available_for_token_sale: 3,888,888,888 BX8 (49%)
 kyc: YES
 accepted_currency :  ETH, BTC, XLM
 non_participate: China, United States of America
 country: Singapore
 bounty : ""
+airdrop: ""
 additional_links : ["https://www.trackico.io/ico/bloomx/#financial",
         "https://icobench.com/ico/bloomx",
         "https://www.trackico.io/ico/bloomx/#tab-statistics"]

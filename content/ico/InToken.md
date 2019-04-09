@@ -1,6 +1,6 @@
 ---
 title : Inbot InToken
-date : "2018-08-08T00:00:00Z"
+date : 2018-08-08 00:00:00
 tags : ["ended","Payment","airdrop"]
 categories : ["ended", "Payment","airdrop"]
 ticket : "Payment"
@@ -55,14 +55,15 @@ long_description: "
 </p>"
 money_goal : "1,000,000"
 goal : "38,000,000 EUR"
-start_date: "2018-08-08T00:00:00Z"
-end_date : "2018-09-08T00:00:00Z"
+start_date: 2018-08-08 00:00:00
+end_date : 2018-09-08 00:00:00
 rating : 3
 ticker : In
 token_type : STELLAR
 token_price: "0.0116 USD"
-funds_softcap_goal: 3,000,000 EUR
-funds_hardcap_goal: 38,000,000 EUR
+funds_softcap_goal: 3000000
+funds_hardcap_goal: 38000000
+funds_raise_todate: 0
 available_for_token_sale: 5,800,000,000
 kyc: YES
 accepted_currency :  ETH
@@ -89,8 +90,6 @@ stellarexpert_url : "https://stellar.expert/explorer/public/asset/IN-GACVHHIZVSN
 stellarport_url : "https://stellarport.io/assets/alphanum4/IN/GACVHHIZVSNTE6TVHPUZ2QG5PNLVLFAHFUAD5ZUWZYX2BQEVGBDWJIYA"
 youtube_url: ""
 linkedin_url: ""
-stellarport_url: ""
-stellarexpert_url: ""
 og_png: ""
 tw_png: ""
 weight: 4

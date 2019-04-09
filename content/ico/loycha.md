@@ -1,6 +1,6 @@
 ---
 title : Loycha
-date : "2018-12-01T00:00:00Z"
+date : 2018-12-01 00:00:00
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
@@ -16,20 +16,22 @@ long_description: "Loycha will disrupt the marketing sector by removing the midd
  <li>So, instead of paying middle-men like Google, Facebook and other companies that sell advertisements, companies will be able to compete and advertise on their own and dedicate the goods to their customers.
  </li>
 </p>"
-start_date: "2018-12-14T00:00:00Z"
-end_date: "2019-01-29T00:00:00Z"
+start_date: 2018-12-14 00:00:00
+end_date: 2019-01-29 00:00:00
 rating : 2
 ticker : LOY
 token_type : STELLAR
 token_price: "1 LOY = 0.01 USD"
-funds_softcap_goal : 250,000
-funds_hardcap_goal:
+funds_softcap_goal : 250000
+funds_hardcap_goal: 2500000
+funds_raise_todate: 0
 available_for_token_sale: 70%
 kyc: YES
 accepted_currency : ETH, BTC, BCH, Fiat
 Non-participate: ""
 country: Kosovo
 bounty : "https://loycha.com/bounty-program/"
+airdrop: ""
 additional_links : ["http://twibee.com/loycha_official/"]
 screenshots : ["img/ico/loycha/screenshots/1.jpg",
                 "img/ico/loycha/screenshots/2.jpg",
@@ -46,8 +48,8 @@ reddit_url: ""
 facebook_url: "https://www.facebook.com/loycha.official/?_rdc=1&_rdr"
 stellarexpert_url: "https://stellar.expert/explorer/public/asset/LOY-GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
 stellarport_url: "https://stellarport.io/assets/alphanum4/LOY/GCYCPPPPOL7FLCS3ZFQXH4Z6EB77D5XMBKFFKDHQ5HYNWQIPTX4XKPAF"
-og_png:
-tw_png:
+og_png: ""
+tw_png: ""
 weight: 3
 
 ---

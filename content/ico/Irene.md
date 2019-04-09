@@ -1,6 +1,6 @@
 ---
 title : Irene Energy
-date : "2018-05-07T00:00:00Z"
+date : 2018-05-07 00:00:00
 tags : ["ended","Payments"]
 categories : ["ended", "Payments"]
 ticket : "Payments"
@@ -36,20 +36,24 @@ long_description: "
 </p>"
 
 goal : "250,000,000 TLU"
-start_date: "2018-05-07T00:00:00Z"
-end_date : "2018-06-18T00:00:00Z"
+start_date: 2018-05-07 00:00:00
+end_date : 2018-06-18 00:00:00
 rating : 3
 ticker : TLU
 token_type : STELLAR
 token_price: "0.1 EUR"
 softcap_goal: 5,000,000 TLU
 fundraising_goal: 250,000,000 TLU
+funds_softcap_goal: 50000000
+funds_raise_todate: 0
+funds_hardcap_goal: 250000000
 available_for_token_sale: 500,000,000
 kyc: YES 
 accepted_currency :  XLM
 non_participate: China and US
 country: France
 bounty : ""
+airdrop: ""
 additional_links : ["https://icoholder.com/en/irene-energy-18454",
         "https://icobench.com/ico/irene-energy",
         "https://www.trackico.io/ico/irene-energy"]

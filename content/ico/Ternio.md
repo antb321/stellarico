@@ -1,6 +1,6 @@
 ---
 title : Ternio
-date : "2018-06-01T00:00:00Z"
+date : 2018-06-01 00:00:00
 tags : ["ended","Payments","airdrop"]
 categories : ["ended", "Payments","airdrop"]
 ticket : "Payments"
@@ -29,14 +29,15 @@ long_description: "<p>
 <p>One blockchain framework. Unlimited potential.</p>"
 money_goal : ""
 goal : "40,000,000 USD"
-start_date: "2018-06-01T00:00:00Z"
-end_date : "2018-06-15T00:00:00Z"
+start_date: 2018-06-01 00:00:00
+end_date : 2018-06-15 00:00:00
 rating : 3
 ticker : TERN
 token_type : STELLAR
 token_price: "0.08 USD"
-funds_softcap_goal: 3,000,000 USD
-funds_hardcap_goal: 40,000,000 USD
+funds_softcap_goal: 3000000
+funds_hardcap_goal: 40000000
+funds_raise_todate: 0
 available_for_token_sale: 49%
 kyc: YES
 accepted_currency :  BTC, ETH, XLM, Fiat

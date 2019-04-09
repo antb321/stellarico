@@ -1,6 +1,6 @@
 ---
 title : Lendledger
-date : "2018-09-01T00:00:00Z"
+date : 2018-09-01 00:00:00
 tags : ["upcoming","Payments","airdrop"]
 categories : ["upcoming", "Payments","airdrop"]
 ticket : "Loan"
@@ -21,14 +21,15 @@ long_description: "<p>LendLedger is the first blockchain-based open protocol con
 <li>Our LOANtokens, are used to unlock lending credits on the network and give access for data providers, borrowers and others.</li></p>"
 money_goal : 1,000,000,000
 goal : 450,000,000 (45%)
-start_date: "2018-10-29T00:00:00Z"
-end_date :  "2018-12-15T00:00:00Z"
+start_date: 2018-10-29 00:00:00
+end_date :  2018-12-15 00:00:00
 rating : 2
 ticker : loan
 token_type : STELLAR
 token_price: "1 LOAN = 0.05 USD"
-funds_softcap_goal:  1,000,000,000
-funds_hardcap_goal:
+funds_softcap_goal:  450000000
+funds_hardcap_goal: 1000000000
+funds_raise_todate: 0
 available_for_token_sale: 45%
 kyc: YES
 accepted_currency :   ETH, BTC, XLM, Fiat
@@ -37,7 +38,7 @@ airdrop : YES
 airdrop_live : NO
 country: Singapore
 bounty : "https://bitcointalk.org/index.php?topic=4704216.0"
-additional_links : ""
+additional_links : [""]
 screenshots : ["static/img/ico/lendledger/screenshots/1.png",
                 "static/img/ico/lendledger/screenshots/2.png",
                 "static/img/ico/lendledger/screenshots/3.png",

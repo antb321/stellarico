@@ -1,6 +1,6 @@
 ---
 title : STEMchain
-date : "2018-01-01T00:00:00Z"
+date : 2018-01-01 00:00:00
 tags : ["active","Payments"]
 categories : ["active", "Payments"]
 ticket : "Payments"
@@ -23,21 +23,24 @@ long_description: "
 <p>
 	After the STEM organizations, receive the donations there is little or no transparency on how the funds are used or whether they are used for the intended purpose. STEMChain will offer a solution to these shortcomings through its ecosystem.
 </p>"
-start_date: "2018-01-01T00:00:00Z"
-end_date : "2018-12-31T00:00:00Z"
+start_date: 2018-01-01 00:00:00
+end_date : 2018-12-31 00:00:00
 rating : 3
 ticker : STEM
 token_type : STELLAR
 token_price: ""
 softcap_goal: 
 fundraising_goal: 
+funds_softcap_goal: 0
+funds_raise_todate: 0
+funds_hardcap_goal: 0
 available_for_token_sale: 100,000,000,000
 kyc: NO 
 accepted_currency :  XLM (main), BTC, ETH, USD, GBP, EUR, JPY (proposed)
 non_participate: 
 airdrop : NO
 airdrop_live : NO
-country: 
+country: "US" 
 bounty : ""
 additional_links : ["https://coinworldstory.com/stemchain/",
         "https://medium.com/stemchain/stemchain-solution-overview-8334fcffa53c"]

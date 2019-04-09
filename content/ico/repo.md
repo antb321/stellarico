@@ -1,6 +1,6 @@
 ---
 title : Repo Coin
-date : "2018-09-01T00:00:00Z"
+date : 2018-09-01 00:00:00
 tags : ["ended","Finance"]
 categories : ["ended", "Finance"]
 ticket : "finance"
@@ -17,21 +17,23 @@ long_description: "<h2>About Repo Coin</h2>
 </p>"
 money_goal : 1 000 000 USD
 goal : ""
-start_date: "2018-09-01T00:00:00Z"
-end_date :  "2018-09-01T00:00:00Z"
+start_date: 2018-09-01 00:00:00
+end_date :  2018-09-01 00:00:00
 rating : 1
 ticker : REPO
 token_type : STELLAR
 token_price: "1 REPO = 0 USD"
-funds_softcap_goal:   
-funds_hardcap_goal:
-available_for_token_sale:  
+funds_softcap_goal: 0   
+funds_raise_todate: 0
+funds_hardcap_goal: 1000000
+available_for_token_sale: "" 
 kyc: NO
 accepted_currency : XLM
 Non-participate:
 country: USA
 bounty : ""
-additional_links : ""
+airdrop: ""
+additional_links : [""]
 screenshots : ["img/ico/repo/screenshots/1.png",
                 "img/ico/repo/screenshots/2.png",
                 "img/ico/repo/screenshots/3.png",

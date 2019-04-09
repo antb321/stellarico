@@ -1,6 +1,6 @@
 ---
 title : Smartlands
-date : "2017-11-02T00:00:00Z"
+date : 2017-11-02 00:00:00
 tags : ["ended","Finance"]
 categories : ["ended", "Finance"]
 ticket : "Finance"
@@ -23,14 +23,15 @@ long_description: "The platform will eliminate the barriers for investors from a
   <li>Cooperation with state bodies responsible for regulating the securities market to explain the benefits of asset tokenization and distributed control offered by blockchain technology. Advocating the idea of minimizing the regulation of such a market by the relevant central authorities for ABTs issued with enhanced monitoring and democratic organization capabilities.</li>
 </ul>
 "
-start_date: "2017-11-02T00:00:00Z"
-end_date : "2017-11-20T00:00:00Z"
+start_date: 2017-11-02 00:00:00
+end_date : 2017-11-20 00:00:00
 rating : 3
 ticker : SLT
 token_type : STELLAR
 token_price: "0.08000 USD"
 funds_softcap_goal: 0
-funds_hardcap_goal: 25,000,000 USD
+funds_raise_todate: 0
+funds_hardcap_goal: 25000000
 available_for_token_sale: 50,000,000
 kyc: YES
 accepted_currency : ETH, BTC, XML
@@ -56,6 +57,7 @@ stellarexpert_url : "https://stellar.expert/explorer/public/asset/SLT-GCKA6K5PCQ
 og_png: ""
 tw_png: ""
 weight: 5
+airdrop: No
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title : Heir
-date : "2018-02-15T00:00:00Z"
+date : 2018-02-15 00:00:00
 tags : ["upcoming","Payments"]
 categories : ["upcoming", "Payments"]
 ticket : "Payments"
@@ -19,8 +19,12 @@ long_description: "
 "
 money_goal : ""
 goal : ""
-start_date: "2018-05-15T00:00:00Z"
-end_date : "2019-11-15T00:00:00Z"
+funds_softcap_goal: 0
+funds_raise_todate: 0
+funds_hardcap_goal: 0 
+airdrop: ""
+start_date: 2018-05-15 00:00:00
+end_date : 2019-11-15 00:00:00
 rating : 1
 ticker : HEIR
 token_type : STELLAR
@@ -31,7 +35,7 @@ available_for_token_sale: 1,000,000,000 HEIR
 kyc: No 
 accepted_currency :  XLM, BTC, ETH
 non_participate: 
-country: 
+country: ""
 bounty : ""
 additional_links : ["https://icoholder.com/en/heir-22708"]
 screenshots : [ "/img/ico/Heir/screenshots/1.png",

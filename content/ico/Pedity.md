@@ -1,6 +1,6 @@
 ---
 title : Pedity
-date : "2018-05-01T00:00:00Z"
+date : 2018-05-01 00:00:00
 tags : ["ended","platform ","airdrop"]
 categories : ["ended", "platform ","airdrop"]
 ticket : "platform "
@@ -22,21 +22,22 @@ long_description: "
 the person who has asked question will also be rewarded<li>
 	<li>And much more ... that will be revealed with beta time frame<li>
 </ul>"
-start_date: "2018-05-01T00:00:00Z"
-end_date : "2018-06-01T00:00:00Z"
+start_date: 2018-05-01 00:00:00
+end_date : 2018-06-01 00:00:00
 rating : 3
 ticker : PEDI
 token_type : STELLAR
 token_price: "1 PEDI = 0.0005 XLM"
-funds_softcap_goal: 
-funds_hardcap_goal: 
+funds_softcap_goal: 0 
+funds_hardcap_goal: 0
+funds_raise_todate: 0
 available_for_token_sale: 1,199,999,999
 kyc: YES
 accepted_currency :  ETH,XLM
 non_participate: 
 airdrop : YES
 airdrop_live : NO
-country: 
+country: US 
 bounty : ""
 additional_links : ["https://icoholder.com/en/pedity-21340",
         "http://betaico.com/pedity"]
