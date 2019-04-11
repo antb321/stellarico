@@ -51,7 +51,7 @@ kyc: YES
 accepted_currency :  BTC, ETH, XLM, Fiat
 non_participate: USA, CANADA 
 country: DE
-bounty : ""
+bounty : "https://www.bitbondsto.com/affiliate"
 airdrop: ""
 additional_links : ["https://icobench.com/ico/bitbond",
         "https://icoengine.net/ico/Bitbond"]
