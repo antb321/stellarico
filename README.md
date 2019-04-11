@@ -1,11 +1,13 @@
 ## What is StellarICO.Expert?
 
-It is the best way to promote your Stellar ICO, Stellar Security Token Offer (STO), Stellar Utility Token, Stellar Equity Tokens, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
+It is the best way to document or promote your Stellar ICO, Stellar Security Token Offer (STO), Stellar Utility Token, Stellar Equity Tokens, Airdrop, and or Bounty program if exists already or is in the planning phase. For users it is the easiest way to keep on top of upcoming or past projects that they are interested in or finding new ones. 
 
-While many other ico promotion sites charge for listings - Stellar ICO Expert is free. Stellar ICO Expert data is 100% driven by the community via github so all submissions and changes can be easily merged into our high performance static website. While on other sites your stellar token event may get overwhelmed by Ethereum coins.
+While many other ico promotion sites charge for listings - Stellar ICO Expert is free. Stellar ICO Expert data is 100% driven by the community via github so all submissions and changes can be easily merged into our high performance static website. While on other sites your stellar token event may get overwhelmed by Ethereum coins. All data is creative commons and can be used by other websites. This means that for stellar people update just one website instead of dozens when dates or values change.
 To get listed you need to only follow two criteria. First it must use the stellar blockchain and second it must follow the stellar community guidelines https://www.stellar.org/community-guidelines/.
 
 The second goal of the project is to come up with machine readable format for ICOs in toml, yaml, json, or xml format. To see your listing 24-48 hours after submitted visit https://stellarico.expert and any other sites supporting this format.
+
+Ratings for the icos are done on completeness of data.
 
 # How do you get started? 
 
@@ -60,129 +62,99 @@ Clone :
     screenshot 350x200 px
 
 
-## variables
-
-  - title : < title/name of the ico>
-  - date : "2018-11-08T00:00:00Z"
-    - when ico is created in iso format
-    - type: string iso timedate, required
-  - tags : ["upcoming","Payments","airdrop"] 
-    - add tags here are upcoming, ended, active
-    - active is for icos currenty occuring, whereas upcoming are in the future and ended are complete
-    - the next tag is the type - you can copy this from another site in terms of category
-    - the final tag is if there is an airdrop or not. If there is no airdrop remove this tag
-    - type: array of strings, required
+   - title : < title/name of the ico> String
+  - date : 2018-11-08 00:00:00
+    - when ico is created in iso date format
+  - tags : ["upcoming","Payments","airdrop"]
+    - add tags here (Array of strings)
   - categories : ["upcoming", "Payments","airdrop"]
-    - add categories it must contain one of these ( "active", "upcoming",   "ended" ) otherwise ico will not display on home page
-    - again the other two follow the tags
-    - type: array of strings, required
+    - add categories it must contain one of these ( "active", "upcoming",  "ended" ) otherwise ico will not display on home page (List of strings)
   - ticket : "Payments"
-     - this should be the type of ico
-     - string, required
-  - banner : "img/ico/tempocrpto/background.jpg"
-    - banner path
-    - unicode string, required, linux, mac format, required (banner 800x300 px)
+    - String
+  - banner : "img/ico/tempo/background.jpg"
+    - banner path (string) do not include 'static/'
+    - String
   - logo : "img/ico/tempo/Tempo_logo_white150x150.jpg"
-    - logo path
-    - tye unicode string, required, linux, mac format, required
+    - ico logo path (string) do not include 'static/'
   - description : "The easiest, fastest and most secure bridge between cash and crypto!"
-    - type: string max 180 chars
-  - long_description: "Blah blah blah....Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
-    - stripped html max 2000 chars
- - money_goal : "1,000,000" 
-   - removed next release
- - goal : "7,000,000 (13%)"
-   - removed next release
- - start_date: "2018-11-08T00:00:00Z"
- - end_date : "2018-11-18T00:00:00Z"
-   - dates should be in iso format
- - rating : 
-   - this is filled in automatically based on social proof. For Tokens that are live it comes from a 50/50 mixture of stellar.expert and stellarport ratings.
+    - Add short description (string 150 chars)
+  - long_description:
+        "<h5>Blah blah blah....Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</h5>"
+     - Add long description (Mardown)
+ - start_date: 2018-11-08 00:00:00
+   - start of ico (including presale in iso date format)
+ - end_date : 2018-11-18 00:00:00Z
+   - end of ico (including presale in iso date format)
+ - rating : 3
+  - will be automatically generated
  - ticker : TEMPO
-   -string required
  - token_type : STELLAR
-    -string required blockchain: STELLAR, ETHEREUM ETC
  - token_price: "1 TEMPO = 0.1200 EUR"
-   - string please follow example format (EUR, USD, BTC, ETH, XLM)
- - softcap_goal: 1,500,000
-   - will be removed next release
- - fundraising_goal: 7,000,000 EUR
-   - will be removed next release
- - funds_softcap_goal : "3,000,000"
-   - string with commas, should not have currency type, required
- - funds_raise_todate: 1,500,000 EUR
-   -string with commas , should have currency type following, required
- - funds_hardcap_goal: 15,000,000 USD
-   - string with commas , should have currency type following, required
+ - funds_raise_todate: 1000000 integer
+ - funds_softcap_goal : 1500000 integer
+ - funds_hardcap_goal: 7000000 integer
  - available_for_token_sale: 20%
-   - percentage string format, required
+  - this is the percent of tokens available for sale
  - kyc: YES (1 JAN - AUG – 7 SEP)
-   - string free format, should start with YES or NO and then a bracked and dates
  - accepted_currency :  BTC, ETH, XRP, XLM, EURT, EUR, JPY
-   - A string of currencies in ISO3 format
- - non_participate: NORTH KOREA, CUBA, Syria, Crimea/Sevastopol, US (limited)
-   - string with a list of countries using comma seperation
+ - non_participate: NORTH KOREA, CUBA, Syria, Crimea/Sevastopol, USA (limited)
  - airdrop : YES
-   - String YES or NO
-   - if there is no airdrop do not include this variables and it will not appear
+  - String or (in case boolean put it within single quotes)
+  - If you do not include it will not appear
  - airdrop_live : NO
-   - String is the Airdrop live (YES or NO)
-   - if there is no airdrop do not include these two variables and they will not appear
- - country: FR 
-  - country in ISO2 format 
+   - if not airdrop is available please do not include these fields
+ - country: FR
+    - ISO2 of the country
  - bounty : "https://ico.tempo.eu.com/bounty"
+    - URL
+    - If you do not include it will not appear
    - a URL to a page or website that describes the bounty process
-   - if there is no bounty this field should be empty
- - additional_links : ["https://stellar.org/",
-        "https://tempo.eu.com/"] 
-   - array of strings, url format, required to include variable but it can be empty [""]
- - screenshots : 
-            [ "/img/ico/tempocrypto/screenshots/1.jpg",
-              "/img/ico/tempocrypto/screenshots/2.jpg",
-              "/img/ico/tempocrypto/screenshots/3.jpg",
-              "/img/ico/tempocrypto/screenshots/4.jpg"] 
-   - screenshot paths, must be in Linux, MacOS, Unix format with no spaces.
-   - array of strings, required to include variable but it can be empty [""]
+   - if there is no bounty this field should not appear or be empty
+ - additional_links : ["https://sharespost.com/",
+        "https://glassnet.io/downloads/GLASS_Executive_Summary.pdf",
+        "https://glassnet.io/blog/"]
+    - array of string URL
+ - screenshots :
+            [ "/img/ico/blockcloud/screenshots/1.jpg",
+              "/img/ico/blockcloud/screenshots/2.jpg",
+              "/img/ico/blockcloud/screenshots/3.jpg",
+              "/img/ico/blockcloud/screenshots/4.jpg",]
+   - array of string (screenshot path)
  - website : "https://ico.tempo.eu.com"
+   - URL
  - whitepaper_url : "https://irp-cdn.multiscreensite.com/d3d3962e/files/uploaded/TEMPO-Whitepaper-pre-release-v27.a.pdf.pdf"
-   - string url, required
+   - URL
  - twitter_url : "https://twitter.com/tempo_eu"
-    - string url format, optional
+   - URL
  - telegram_url : "https://t.me/joinchat/Cl6wihECcZFcv2tJcFEY5Q"
-     - string url format, optional
- - github_url: "https://github.com/tempofr"
-     - string url format, optional
- - reddit_url: "https://www.reddit.com/user/TempoMoneyTransfer"
-     - string url format, optional (user or group)
- - facebook_url: "https://www.facebook.com/TEMPOMoneyTransfer/"
-     - string url format, optional
- - bitcointalk_url : "https://bitcointalk.org/index.php?topic=5025231.msg45455624#msg45455624"
-     - string url format, optional
- - youtube_url : "https://www.youtube.com/channel/UC-MI1jnOA1T1ublc6QoJ71w"
-   - this should be to a youtube video that explains the ICO. Not the general homepage
-   - string url format, optional
- - linkedin_url : "https://fr.linkedin.com/company/tempo-france-sas"
-   - string url format, optional
-   - all these social sites are optional. If they are not included they will not appear on your page
-  - stellarport_url : ""
+   - URL
+ - github_url: ""
+   - URL
+ - reddit_url: ""
+   - URL
+ - facebook_url: ""
+   - URL
+ - og_png: "img/ico/blockcloud/Blockcloud-Main.jpg"
+   - URL
+ - tw_png: "img/ico/blockcloud/Blockcloud-Main.jpg"
+   - URL
+- stellarport_url : ""
    - if this is an exisiting asset, go to stellarport.io, click on exchange, assets and search for the ticker.
    - url required if ended and Stellar ICO otherwise do not include
   - stellarx_url : ""
    - if this is an exisiting asset, go to stellarx.com, click on market and search for the ticker.
    - url required if ended and Stellar ICO and is listed on stellarx otherwise do not include
  - stellarexpert_url : ""
-    - go to stellar.expert and add the url to the asset 
+    - go to stellar.expert and add the url to the asset
     - type the ticker into the search box
     - url required if ended and Stellar ICO
   - coinmarketcap_url : ""
     - if asset has coinmarketcap listing add here
     - should be URL
-   #images that will appear for twitter and facebook
- - og_png: "img/ico/tempocrypto/Tempo-Main.jpg"
- - tw_png: "img/ico/tempocrypto/Tempo-Main.jpg"
- - weight: 5 
-   - give the weight to ICO 0 (zero is minimum ) on the basis of this weight ico will show on home page 
-   
+ - weight: 5
+   - give the weight to ICO 0 (zero is minimun ) on the basis of this weight ico will show on home page
+
+
   Push any changes and they will automatically be accepted once reviewed and pushed to the website. 
 
 
