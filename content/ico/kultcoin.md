@@ -44,7 +44,6 @@ accepted_currency : BTC, ETH, EUR
 non_participate:  
 airdrop: ""
 country: FRANCE
-bounty : ""
 additional_links : [""]
 screenshots :  ["img/ico/kultcoin/screenshots/Screenshot (43).jpg",
                 "img/ico/kultcoin/screenshots/screenshot (43).jpg",

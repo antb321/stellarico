@@ -61,8 +61,6 @@ kyc: NO
 accepted_currency : BTC, ETH, XLM, Fiat
 non_participate: 
 country: Canada
-bounty : ""
-airdrop: ""
 additional_links : ["https://icobench.com/ico/nezly-semi-private-presale",
         "https://www.icomarks.com/ico/nezly-semi-private-presale",
         "https://cryptoslate.com/coins/nezly/"]

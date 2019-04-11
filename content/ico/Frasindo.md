@@ -35,7 +35,6 @@ non_participate:
 airdrop : Yes
 airdrop_live : NO
 country: Indonesia
-bounty : ""
 additional_links : ["https://foundico.com/ico/frasindo-fras-coin.html",
         "https://icobench.com/ico/frasindo",
 		"https://coincodex.com/ico/frasindo-fras-coin/"]

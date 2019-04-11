@@ -73,7 +73,6 @@ kyc: YES
 accepted_currency :  ETH, BTC, XLM
 non_participate: China, United States of America
 country: Singapore
-bounty : ""
 airdrop: ""
 additional_links : ["https://www.trackico.io/ico/bloomx/#financial",
         "https://icobench.com/ico/bloomx",

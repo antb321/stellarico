@@ -36,7 +36,6 @@ kyc: No
 accepted_currency :  XLM, BTC, ETH
 non_participate: 
 country: ""
-bounty : ""
 additional_links : ["https://icoholder.com/en/heir-22708"]
 screenshots : [ "/img/ico/Heir/screenshots/1.png",
                 "/img/ico/Heir/screenshots/2.png",

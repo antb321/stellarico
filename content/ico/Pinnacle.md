@@ -63,7 +63,6 @@ non_participate:
 airdrop : NO
 airdrop_live : NO
 country: Belize
-bounty : ""
 additional_links : ["https://icomarks.com/ico/pinnacle-brilliance/",
         "https://icobench.com/ico/pinnacle-brilliance",
         "https://icorating.com/ico/pinnacle-brilliance/"]

@@ -51,7 +51,6 @@ non_participate:
 airdrop : YES
 airdrop_live : NO
 country: Singapore
-bounty : ""
 additional_links : ["https://icodrops.com/lala-world/",
         "https://icobench.com/ico/lala-world",
         "https://www.icotokennews.com/icos/lalaworld/"]

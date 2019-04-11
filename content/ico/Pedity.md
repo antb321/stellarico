@@ -38,7 +38,6 @@ non_participate:
 airdrop : YES
 airdrop_live : NO
 country: US 
-bounty : ""
 additional_links : ["https://icoholder.com/en/pedity-21340",
         "http://betaico.com/pedity"]
 screenshots : [ "/img/ico/Pedity/screenshots/1.png",

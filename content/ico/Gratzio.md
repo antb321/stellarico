@@ -52,7 +52,6 @@ non_participate: USA
 airdrop : YES
 airdrop_live : YES
 country: UK
-bounty : ""
 additional_links : ["https://icobench.com/ico/gratzio",
         "https://icoholder.com/en/gratzio-22424",
 		"https://icorating.com/ico/gratzio-grat/"]

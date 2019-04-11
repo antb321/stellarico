@@ -31,8 +31,6 @@ kyc: NO
 accepted_currency : XLM
 Non-participate:
 country: USA
-bounty : ""
-airdrop: ""
 additional_links : [""]
 screenshots : ["img/ico/repo/screenshots/1.png",
                 "img/ico/repo/screenshots/2.png",

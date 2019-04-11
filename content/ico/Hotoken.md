@@ -41,7 +41,6 @@ non_participate:
 airdrop : NO
 airdrop_live : NO
 country: Thailand
-bounty : ""
 additional_links : ["https://www.coingecko.com/en/ico/hotoken",
         "https://icobench.com/ico/hotoken",
         "https://www.icotokennews.com/icos/lalaworld/"]

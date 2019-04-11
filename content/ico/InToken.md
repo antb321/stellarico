@@ -71,7 +71,6 @@ non_participate: USA
 airdrop : YES
 airdrop_live : NO
 country: Germany
-bounty : ""
 additional_links : ["https://icomarks.com/ico/inbot-intoken",
         "https://icobench.com/ico/inbot-intoken"]
 screenshots : [ "/img/ico/InToken/screenshots/1.png",

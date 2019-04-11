@@ -52,8 +52,6 @@ kyc: YES
 accepted_currency :  XLM
 non_participate: China and US
 country: France
-bounty : ""
-airdrop: ""
 additional_links : ["https://icoholder.com/en/irene-energy-18454",
         "https://icobench.com/ico/irene-energy",
         "https://www.trackico.io/ico/irene-energy"]
